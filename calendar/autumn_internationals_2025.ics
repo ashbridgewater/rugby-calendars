@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//Rugby Calendars//Autumn Internationals 2025//EN
+X-WR-CALNAME:Autumn Internationals 2025
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:f79eac84b25327247c52db0e641f4c0b@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251101T151000Z
+DTEND:20251101T171000Z
+SUMMARY:England v Australia
+LOCATION:Allianz Stadium, Twickenham
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:England v Australia\nVenue: Allianz Stadium, Twickenham\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:700743a3a72cd80e00f1916ca9b19b63@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251101T161000Z
+DTEND:20251101T181000Z
+SUMMARY:South Africa v Japan
+LOCATION:Wembley Stadium, London
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:South Africa v Japan\nVenue: Wembley Stadium, London\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:06088143f5f9482d1abc4b242d0a299a@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251101T174000Z
+DTEND:20251101T194000Z
+SUMMARY:Scotland v USA
+LOCATION:Scottish Gas Murrayfield Stadium, Edinburgh
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:Scotland v USA\nVenue: Scottish Gas Murrayfield Stadium, Edinburgh\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:ee1ec3e8eecbb2d958bce1b5a34dce44@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251101T200000Z
+DTEND:20251101T220000Z
+SUMMARY:Ireland v New Zealand
+LOCATION:Soldier Field, Chicago
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:Ireland v New Zealand\nVenue: Soldier Field, Chicago\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:1fafd35b2661795a323cf7a6c02d844a@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251108T124000Z
+DTEND:20251108T144000Z
+SUMMARY:Ireland v Japan
+LOCATION:Aviva Stadium, Dublin
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:Ireland v Japan\nVenue: Aviva Stadium, Dublin\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:319a90de7399b4d1e937b36525652405@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251108T151000Z
+DTEND:20251108T171000Z
+SUMMARY:Scotland v New Zealand
+LOCATION:Scottish Gas Murrayfield Stadium, Edinburgh
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:Scotland v New Zealand\nVenue: Scottish Gas Murrayfield Stadium, Edinburgh\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:3f5c89073afb6a7d7e6b821ef2e10938@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251108T174000Z
+DTEND:20251108T194000Z
+SUMMARY:England v Fiji
+LOCATION:Allianz Stadium, Twickenham
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:England v Fiji\nVenue: Allianz Stadium, Twickenham\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:dd172f9ff3eb1e36453b99fbea8671bf@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251108T174000Z
+DTEND:20251108T194000Z
+SUMMARY:Italy v Australia
+LOCATION:Bluenergy Stadium, Udine
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:Italy v Australia\nVenue: Bluenergy Stadium, Udine\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:df0132506fa04cd8c1b0d951b089fcd7@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251108T201000Z
+DTEND:20251108T221000Z
+SUMMARY:France v South Africa
+LOCATION:Stade de France, Paris
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:France v South Africa\nVenue: Stade de France, Paris\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:4d6c26bdf15f4365d2482d1391bd8110@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251109T151000Z
+DTEND:20251109T171000Z
+SUMMARY:Wales v Argentina
+LOCATION:Principality Stadium, Cardiff
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:Wales v Argentina\nVenue: Principality Stadium, Cardiff\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:ca49240f010ec3535fb91b2e6fdea0d8@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251115T124000Z
+DTEND:20251115T144000Z
+SUMMARY:Italy v South Africa
+LOCATION:Allianz Stadium, Turin
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:Italy v South Africa\nVenue: Allianz Stadium, Turin\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:fc12cdadec483ca6d8dbbc94778d6417@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251115T151000Z
+DTEND:20251115T171000Z
+SUMMARY:England v New Zealand
+LOCATION:Allianz Stadium, Twickenham
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:England v New Zealand\nVenue: Allianz Stadium, Twickenham\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:f58ed76b47768596d6e5a044f5ba4099@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251115T174000Z
+DTEND:20251115T194000Z
+SUMMARY:Wales v Japan
+LOCATION:Principality Stadium, Cardiff
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:Wales v Japan\nVenue: Principality Stadium, Cardiff\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:e5b100ae5d774effa87204fc1fab4709@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251115T201000Z
+DTEND:20251115T221000Z
+SUMMARY:France v Fiji
+LOCATION:Stade Atlantique Bordeaux Metropole, Bordeaux
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:France v Fiji\nVenue: Stade Atlantique Bordeaux Metropole, Bordeaux\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:a40bc3da14f2c85f2315fdcce9a90519@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251115T201000Z
+DTEND:20251115T221000Z
+SUMMARY:Ireland v Australia
+LOCATION:Aviva Stadium, Dublin
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:Ireland v Australia\nVenue: Aviva Stadium, Dublin\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:a8f491236bc0d54c01d028f211f97edf@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251116T151000Z
+DTEND:20251116T171000Z
+SUMMARY:Scotland v Argentina
+LOCATION:Scottish Gas Murrayfield Stadium, Edinburgh
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:Scotland v Argentina\nVenue: Scottish Gas Murrayfield Stadium, Edinburgh\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:91b8d7740fa87636c13befcb44def250@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251122T151000Z
+DTEND:20251122T171000Z
+SUMMARY:Wales v New Zealand
+LOCATION:Principality Stadium, Cardiff
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:Wales v New Zealand\nVenue: Principality Stadium, Cardiff\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:bdbe1a2a944fce1d20c7d4fad40d9e2b@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251122T174000Z
+DTEND:20251122T194000Z
+SUMMARY:Ireland v South Africa
+LOCATION:Aviva Stadium, Dublin
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:Ireland v South Africa\nVenue: Aviva Stadium, Dublin\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:578d0cef80cbf61bb0695179c78746f8@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251122T201000Z
+DTEND:20251122T221000Z
+SUMMARY:France v Australia
+LOCATION:Stade de France, Paris
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:France v Australia\nVenue: Stade de France, Paris\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:b6ae587483853e6d1f0eceb95bd6b36f@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251122T201000Z
+DTEND:20251122T221000Z
+SUMMARY:Italy v Samoa
+LOCATION:Stadio Luigi Ferraris, Genoa
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:Italy v Samoa\nVenue: Stadio Luigi Ferraris, Genoa\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:e3883bb8f75ca85cb99851784f42f0c1@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251123T134000Z
+DTEND:20251123T154000Z
+SUMMARY:Scotland v Tonga
+LOCATION:Scottish Gas Murrayfield Stadium, Edinburgh
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:Scotland v Tonga\nVenue: Scottish Gas Murrayfield Stadium, Edinburgh\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:a18c443b447445aba040a7c29e9eff4d@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251123T161000Z
+DTEND:20251123T181000Z
+SUMMARY:England v Argentina
+LOCATION:Allianz Stadium, Twickenham
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:England v Argentina\nVenue: Allianz Stadium, Twickenham\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:a849b52e4aab52b2752304d83ec9b85a@rugby-cal
+DTSTAMP:20251010T093831Z
+DTSTART:20251129T151000Z
+DTEND:20251129T171000Z
+SUMMARY:Wales v South Africa
+LOCATION:Principality Stadium, Cardiff
+URL:https://www.autumn-internationals.co.uk/2025/
+DESCRIPTION:Wales v South Africa\nVenue: Principality Stadium, Cardiff\nSource: https://www.autumn-internationals.co.uk/2025/
+END:VEVENT
+END:VCALENDAR
