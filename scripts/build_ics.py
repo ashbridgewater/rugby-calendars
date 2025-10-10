@@ -42,7 +42,7 @@ def main():
 
             uid_src = f"{date}-{time_gmt}-{summary}-{venue}"
             uid = hashlib.md5(uid_src.encode("utf-8")).hexdigest() + "@rugby-cal"
-            desc = f"{summary}\\nVenue: {venue}\\nSource: {SOURCE_URL}"
+            desc = f"{summary}\\nVenue: {venue}\\"
 
             lines += [
                 "BEGIN:VEVENT",
