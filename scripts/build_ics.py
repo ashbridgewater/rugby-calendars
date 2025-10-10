@@ -25,6 +25,7 @@ def main():
         f"PRODID:-//Rugby Calendars//{CAL_NAME}//EN",
         f"X-WR-CALNAME:{CAL_NAME}",
         "X-WR-TIMEZONE:UTC",
+        "X-WR-CALDESC:Test fixtures for the 2025 Autumn Internationals (updates via GitHub).",
         "REFRESH-INTERVAL;VALUE=DURATION:PT12H",
         "X-PUBLISHED-TTL:PT12H",
     ]
