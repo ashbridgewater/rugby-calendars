@@ -68,7 +68,7 @@ DATE_RE = re.compile(
     r"\b(?P<d>\d{1,2})(?:st|nd|rd|th)?\s+(?P<m>Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t|tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\s+(?P<y>20\d{2})\b",
     re.IGNORECASE,
 )
-TIME_RE = re.compile(r"\b(?P<h>\d{1,2}):(?P<m>\d{2})\b")
+TIME_RE = re.compile(r"\b(?P<h>\d{1,2}):(?P<m>\d{2})\s*(?P<ampm>am|pm)?\b", re.IGNORECASE)
 MATCH_RE = re.compile(r"\b(?P<home>[A-Z][A-Za-z .&'-]+)\s+v\s+(?P<away>[A-Z][A-Za-z .&'-]+)\b")
 
 MONTHS = {
@@ -76,6 +76,18 @@ MONTHS = {
     "jun":6,"june":6,"jul":7,"july":7,"aug":8,"august":8,"sep":9,"sept":9,"september":9,
     "oct":10,"october":10,"nov":11,"november":11,"dec":12,"december":12,
 }
+
+def normalise_time_to_24h(h: int, m: int, ampm: str | None) -> str:
+    if not ampm:
+        return f"{h:02d}:{m:02d}"
+    ampm = ampm.lower()
+    if ampm == "am":
+        if h == 12:
+            h = 0
+    elif ampm == "pm":
+        if h != 12:
+            h += 12
+    return f"{h:02d}:{m:02d}"
 
 def normalise_date(d: str, m: str, y: str) -> str:
     mm = MONTHS[m.lower()[:3] if len(m) > 3 else m.lower()]
@@ -89,7 +101,11 @@ def extract_fixtures_from_text(text: str):
     if not (date_m and time_m and match_m):
         return out
     date_iso = normalise_date(date_m.group("d"), date_m.group("m"), date_m.group("y"))
-    time_gmt = f"{int(time_m.group('h')):02d}:{int(time_m.group('m')):02d}"
+    time_gmt = normalise_time_to_24h(
+    int(time_m.group("h")),
+    int(time_m.group("m")),
+    time_m.group("ampm"),
+)
     summary = f"{match_m.group('home').strip()} v {match_m.group('away').strip()}"
     # venue heuristics
     after = text[match_m.end():].strip()
