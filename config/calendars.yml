@@ -1,0 +1,17 @@
+# You can define multiple calendars here and switch between them from the workflow.
+calendars:
+  autumn_2025:
+    cal_name: "Autumn Internationals 2025"
+    csv_path: "data/autumn_internationals_2025.csv"
+    ics_path: "calendar/autumn_internationals_2025.ics"
+    source_url: "https://www.autumn-internationals.co.uk/2025/"
+    default_duration_minutes: 120
+    timezone: "UTC"  # display-only label for X-WR-TIMEZONE
+
+    six_nations_2026:
+    cal_name: "Six Nations 2026"
+    csv_path: "data/six_nations_2026.csv"
+    ics_path: "calendar/six_nations_2026.ics"
+    source_url: "https://www.six-nations-guide.co.uk/2026/"
+    default_duration_minutes: 120
+    timezone: "UTC"
