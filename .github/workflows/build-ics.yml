@@ -1,13 +1,31 @@
-name: Build ICS (manual)
+name: Build calendar
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      calendar_id:
+        description: "Which calendar from config/calendars.yml?"
+        type: string
+        default: "autumn_2025"
+        required: true
+      source_url:
+        description: "Optional: scrape from this URL (empty = skip scraping)"
+        type: string
+        required: false
+        default: ""
+  push:
+    paths:
+      - 'data/*.csv'
+      - 'config/calendars.yml'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      CALENDAR_ID: ${{ inputs.calendar_id }}
+      SOURCE_URL: ${{ inputs.source_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -21,12 +39,14 @@ jobs:
           python -m pip install -U pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Build ICS
+      - name: Scrape (optional) and build ICS
         run: |
-          python scripts/build_ics.py
+          python scripts/scrape_and_build.py
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: rebuild ICS"
-          file_pattern: calendar/autumn_internationals_2025.ics
+          commit_message: "chore: build ${{ env.CALENDAR_ID }} (scrape optional)"
+          file_pattern: |
+            data/*.csv
+            calendar/*.ics
