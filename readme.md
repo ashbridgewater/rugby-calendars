@@ -25,9 +25,9 @@ tournament, follow a single nation, or take the lot.
 | Summer Internationals 2026 | `https://raw.githubusercontent.com/ashbridgewater/rugby-calendars/main/calendar/summer_2026.ics` |
 | Six Nations 2027 | `https://raw.githubusercontent.com/ashbridgewater/rugby-calendars/main/calendar/six_nations_2027.ics` |
 | Rugby World Cup 2027 | `https://raw.githubusercontent.com/ashbridgewater/rugby-calendars/main/calendar/rwc_2027.ics` |
-| 🏴 England (all tournaments) | `https://raw.githubusercontent.com/ashbridgewater/rugby-calendars/main/calendar/england.ics` |
-| 🏴 Scotland (all tournaments) | `https://raw.githubusercontent.com/ashbridgewater/rugby-calendars/main/calendar/scotland.ics` |
-| 🏴 Wales (all tournaments) | `https://raw.githubusercontent.com/ashbridgewater/rugby-calendars/main/calendar/wales.ics` |
+| 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (all tournaments) | `https://raw.githubusercontent.com/ashbridgewater/rugby-calendars/main/calendar/england.ics` |
+| 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (all tournaments) | `https://raw.githubusercontent.com/ashbridgewater/rugby-calendars/main/calendar/scotland.ics` |
+| 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (all tournaments) | `https://raw.githubusercontent.com/ashbridgewater/rugby-calendars/main/calendar/wales.ics` |
 | ☘️ Ireland (all tournaments) | `https://raw.githubusercontent.com/ashbridgewater/rugby-calendars/main/calendar/ireland.ics` |
 
 ### Apple Calendar (macOS / iOS)
