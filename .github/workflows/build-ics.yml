@@ -1,52 +1,50 @@
-name: Build calendar
+name: Build calendars
 
 on:
+  schedule:
+    # Daily at 06:30 UTC. Content-gated commits mean no-op runs produce no diff.
+    - cron: "30 6 * * *"
   workflow_dispatch:
-    inputs:
-      calendar_id:
-        description: "Which calendar from config/calendars.yml?"
-        type: string
-        default: "autumn_2025"
-        required: true
-      source_url:
-        description: "Optional: scrape from this URL (empty = skip scraping)"
-        type: string
-        required: false
-        default: ""
   push:
+    branches: [main]
     paths:
-      - 'data/*.csv'
-      - 'config/calendars.yml'
+      - 'config/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/**'
+
+concurrency:
+  group: build-ics
+  cancel-in-progress: false
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    env:
-      CALENDAR_ID: ${{ inputs.calendar_id }}
-      SOURCE_URL: ${{ inputs.source_url }}
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.12"
+          cache: pip
 
-      - name: Install deps
-        run: |
-          python -m pip install -U pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Install dependencies
+        run: pip install -r requirements-dev.txt
 
-      - name: Scrape (optional) and build ICS
-        run: |
-          python scripts/scrape_and_build.py
+      - name: Run tests
+        run: python -m pytest -q
 
-      - name: Commit changes
+      - name: Scrape + build + validate calendars
+        run: python -m scripts.run_pipeline --config config/calendars.yml
+
+      - name: Heartbeat (defeat GitHub 60-day scheduled-workflow auto-disable)
+        run: date -u +%Y-%m > state/heartbeat.txt
+
+      - name: Commit changes (only when content actually changed)
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: build ${{ env.CALENDAR_ID }} (scrape optional)"
-          file_pattern: |
-            data/*.csv
-            calendar/*.ics
+          commit_message: "chore(data): auto-update rugby calendars"
+          file_pattern: "calendar/*.ics data/*.csv state/*.json state/heartbeat.txt"

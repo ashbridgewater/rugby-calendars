@@ -1,0 +1,557 @@
+{
+  "autumn-2026-F-1@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "b790a343246179989180742d431f826eca220a9a2a7506e41bbb5468bd4fe52e",
+    "kickoff_utc": "2026-11-27T16:40:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-F-2@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "fdd6096292dbd8daa613f8c241bc867e29bd282c02a30052300532d0846227e3",
+    "kickoff_utc": "2026-11-27T20:10:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-F-3@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "c29c5dcda760db33a85cf8b5e6338769e4dc3a0f41384e982a9084780b0057ee",
+    "kickoff_utc": "2026-11-28T13:10:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-F-4@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "79333c5b9e80c2650ea87944d6d66f41de43fdf2057d151680dd2cc4debd6614",
+    "kickoff_utc": "2026-11-28T16:40:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-F-5@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "b5554ef682400968150b3a379e83c43a1ad9b19f346ee632174f20107237a877",
+    "kickoff_utc": "2026-11-29T13:10:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-F-6@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "86ff0291adbc18ccc576032a85d13544a9804ed5d1efa4cebd69cf7e6e9c5aae",
+    "kickoff_utc": "2026-11-29T16:40:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-4-england-v-australia@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "3766192b2dd8266eb2e6c6ca7f416ac7ea700732b512109ec1eea194ebd478c4",
+    "kickoff_utc": "2026-11-08T15:10:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-4-france-v-fiji@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "1e4a98a6bc66567529674a5ffa596c0192b24b80486f49c1df8326b316bcb98a",
+    "kickoff_utc": "2026-11-07T20:10:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-4-ireland-v-argentina@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "2490681dcf68817c089e98db8a370068f55ee1709380d423b57729d34774a5a7",
+    "kickoff_utc": "2026-11-06T20:10:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-4-italy-v-south-africa@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "6e48455f8a60131754ca7ffcc3b6b85dd05673b68fa0bbb2a22e0b26033a837d",
+    "kickoff_utc": "2026-11-07T11:40:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-4-scotland-v-new-zealand@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "bcb8eafab8b0539d581580e0c5df8c3d811b2bba9bb7e143fc0b17e5f66dbf0e",
+    "kickoff_utc": "2026-11-07T14:10:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-4-wales-v-japan@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "0b1d3aa1073d3d186f1c5f1714425a3695c05604d982dc1851ce2b7ac4283cb7",
+    "kickoff_utc": "2026-11-07T16:40:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-5-england-v-japan@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "7bd95f1e9d2c0b28b842e8e9b5fa72eb72443aae5272cd464cf6103b5d793279",
+    "kickoff_utc": "2026-11-14T16:40:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-5-france-v-south-africa@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "22b3fddedb55501d3b39239a824800d5575c8b689730cadb854fd4d6ad5d09d4",
+    "kickoff_utc": "2026-11-13T20:10:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-5-ireland-v-fiji@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "3b772c3dd0fa016f1602cd76dc643cb3c647275640d79625bcf5969b910fd97a",
+    "kickoff_utc": "2026-11-14T20:10:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-5-italy-v-argentina@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "abde0c4dce19a23e1b267bdac569ef08fdce722868b4f53f5ed6cf8168d33c87",
+    "kickoff_utc": "2026-11-14T11:40:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-5-scotland-v-australia@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "f4c16237ba4be971f16dd681a6522cd4ddea1435405f09b227b4a074d942f936",
+    "kickoff_utc": "2026-11-15T15:10:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-5-wales-v-new-zealand@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "cb1b15c643f344835b604b0b54791e72627498a6c5990e4325e94e7c4464d565",
+    "kickoff_utc": "2026-11-14T14:10:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-6-england-v-new-zealand@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "ad84bf82e249e50680264bfd17121e0b9f19d116bb47796526c0c914ff320efb",
+    "kickoff_utc": "2026-11-21T14:10:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-6-france-v-argentina@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "d0a0302f46d2cd5b388c0e8b4d371e645d5bce98193ab075d782f1a0fb29bd44",
+    "kickoff_utc": "2026-11-21T20:10:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-6-ireland-v-south-africa@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "81d5edc9a77cd2110ebb0f241096c60609411143853c2476d8c25e0d8ad41111",
+    "kickoff_utc": "2026-11-21T16:40:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-6-italy-v-fiji@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "1332b82a52f4b31d21ba9d56bd148d9bbe305aaaddd4c5798699560686cc6f1c",
+    "kickoff_utc": "2026-11-21T16:40:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-6-scotland-v-japan@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "623bb58cf1b8fdb33524c800e0a91c77439a6d4ef528ddd3d0fd32b6d069a690",
+    "kickoff_utc": "2026-11-21T14:10:00+00:00",
+    "sequence": 0
+  },
+  "autumn-2026-round-6-wales-v-australia@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "11ff4a47a55acb27ff4d53c484264ba1026a6241bd50fe1f098550a15c047897",
+    "kickoff_utc": "2026-11-21T20:10:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-BR-1@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "1a90f9311d9c53a1f21c972a8dc35848653347c31d0166e0af2c83c28e20d238",
+    "kickoff_utc": "2027-11-12T08:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-F-1@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "7ee3de638bddd6134d6e691813f6ef647b4ba04a995f7d7a06ba75cac93ca346",
+    "kickoff_utc": "2027-11-13T09:00:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-QF-1@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "77e5ca0b1264130f3e06d260ef62544d462b1a13039194ec459263460be626ea",
+    "kickoff_utc": "2027-10-30T05:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-QF-2@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "cf20f64c18455381d7a828c4b5a8b282580482aefe08484d61aef3c2c2cd9121",
+    "kickoff_utc": "2027-10-30T08:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-QF-3@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "b2432b1a1fc2322d68ef54bec74f052770f29c0a5182da12faa0b35cf9aff195",
+    "kickoff_utc": "2027-10-31T06:00:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-QF-4@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "cbb702e094c33351fc2424106c2d5ef159570a4a0aaae618c5bea95fa684459e",
+    "kickoff_utc": "2027-10-31T09:00:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-R16-1@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "e2a6bf978f190063fa5b91fb41a3cc700e46072bdf9191cc855a423ba87d87ce",
+    "kickoff_utc": "2027-10-23T03:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-R16-2@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "4a67e7d536bff4094a2b4e237e45a56cfb1b0f3e05ee98d478720e760fbe06c7",
+    "kickoff_utc": "2027-10-23T05:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-R16-3@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "c8d8e56cd094254f895a54ebeb1bbc3dd4deeac8a29253c8e026f47db8c8224e",
+    "kickoff_utc": "2027-10-23T08:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-R16-4@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "80db3cd35251d52d8b764094a93b353567a70bfe42b187949db778e204722afe",
+    "kickoff_utc": "2027-10-23T10:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-R16-5@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "b32843fd9e94ddd8835d8ae18dd387bdad8c6fe2faa1609754eae8e2bf2cac26",
+    "kickoff_utc": "2027-10-24T03:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-R16-6@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "7e214dde88a4ec8b4e854fee0a7d1da22373e2b6ea119a71b5d78bb0ae59f9f7",
+    "kickoff_utc": "2027-10-24T05:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-R16-7@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "b1f080c62f24dd5ce2ac86e8fd304402a5274977a641bd980ebcdb2d56bfbf3f",
+    "kickoff_utc": "2027-10-24T08:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-R16-8@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "1f98985d6637a66ea9ba55d7207f7692ff50aab301aae4cde67d8681c2ca1a4e",
+    "kickoff_utc": "2027-10-24T10:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-SF-1@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "a53daf8b62fe2a6f9a39a9649b392948bd90543e426991634b705db9fdf6b40b",
+    "kickoff_utc": "2027-11-05T09:00:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-SF-2@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "da353feb824f8974f5e55147520a8e19175a7a274755be6655aa7d632562ec1e",
+    "kickoff_utc": "2027-11-06T09:00:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-a-australia-v-chile@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "a6c4d239af4b53182838a46d974bf71e1bf9d23164d90d580b2d1f26b7733819",
+    "kickoff_utc": "2027-10-16T05:10:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-a-australia-v-hong-kong@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "c7b4da94ebbf97b7225307dd34a61e0b7cadc76bbb54b82139facefd9047510b",
+    "kickoff_utc": "2027-10-01T10:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-a-chile-v-hong-kong@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "2431b76d95a42fbb9bfc688da166290dd7af854d9d9ce14a2bc36bd0e4cf33cb",
+    "kickoff_utc": "2027-10-09T10:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-a-new-zealand-v-australia@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "e48f8880cdabd415293b03b071679bee01bf74f7bf5ae46786e1bdfc899446c4",
+    "kickoff_utc": "2027-10-09T06:10:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-a-new-zealand-v-chile@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "c98311f2105d6055280107ffdf7b130ffe5b522ebe7cc48ab6b113a425cde66b",
+    "kickoff_utc": "2027-10-02T05:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-a-new-zealand-v-hong-kong@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "87ee01c28507c4822d46b1c2d37ce6905d4935b44a2be0d816e6119c5e68ec2b",
+    "kickoff_utc": "2027-10-15T06:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-b-georgia-v-romania@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "866c1e5241c9b4de80c40a15298a48972537570d8c521edff580cf5383e76e77",
+    "kickoff_utc": "2027-10-03T10:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-b-italy-v-georgia@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "bb9ef9cdbd8c8fb781352913b78641c536e085067423b748daba6de0a790c65a",
+    "kickoff_utc": "2027-10-17T01:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-b-italy-v-romania@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "96f395844311e87d7c0818d4cb9113bb60b4a642f9eef94284856a327ed32de4",
+    "kickoff_utc": "2027-10-11T08:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-b-south-africa-v-georgia@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "a155ab30ac8aa109cd7bd3992270abf9e2a02fab33a95c07ec3216722472d6da",
+    "kickoff_utc": "2027-10-10T06:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-b-south-africa-v-italy@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "dfa4bcd4f5c04a4b9a593189ba0fe5739c2acfe9d95af069972a126bbd9cb91e",
+    "kickoff_utc": "2027-10-03T03:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-b-south-africa-v-romania@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "cdbad2059c04d53b91c7f6059345f18b38833ef8dead136deb2a7afee2a951b8",
+    "kickoff_utc": "2027-10-17T11:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-c-argentina-v-canada@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "d0aa93c97830edd507ec64f74b6239442f65f581bed59fc8643f060d42b1c2f7",
+    "kickoff_utc": "2027-10-04T08:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-c-argentina-v-fiji@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "c466c5d337f49f11d43d0b01a7cd8d2ea5f8c3d182155319c3cec71e2438bd27",
+    "kickoff_utc": "2027-10-16T02:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-c-argentina-v-spain@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "92b872c5bc16cb188642c619e83966b50fc313c5c725b6fd3bf2b00998e82fb9",
+    "kickoff_utc": "2027-10-10T04:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-c-fiji-v-canada@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "8ac64c8acefbfa47963d8bf2edbf975abbfa818a53da064b313e0ee99816f889",
+    "kickoff_utc": "2027-10-10T01:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-c-fiji-v-spain@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "a99861a83f53216d7f4a98e5c376af011c4e5f5144fe47c9140e97c5fe3a0594",
+    "kickoff_utc": "2027-10-04T03:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-c-spain-v-canada@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "335b5956089474e28b8b386180abe22a62dd0ab7dc582b9652a42ea3b3d6ac5a",
+    "kickoff_utc": "2027-10-16T10:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-d-ireland-v-portugal@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "15bae9ba86a9dc091ec3c9c4b9bd615d7ea9c28b80db63ae530a4ee7e1354eab",
+    "kickoff_utc": "2027-10-04T06:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-d-ireland-v-scotland@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "6bbef084d911275d47f74664563d112a066db4dff2f2ea6e020068add7b6e476",
+    "kickoff_utc": "2027-10-10T09:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-d-ireland-v-uruguay@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "02f30d9125b4563efa12ce9256a59f1e7f2e7f5cd335bfa602be3bcf40f822ad",
+    "kickoff_utc": "2027-10-17T03:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-d-scotland-v-portugal@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "21ead7b099e9a3bc2281d2a4f3b9ed749991d3ddb600c6da84b970551d27b2b7",
+    "kickoff_utc": "2027-10-17T06:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-d-scotland-v-uruguay@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "246d29bac6f8846c9585ff0bfaaaf391db9c56b8decf323adde6f5f4915462a8",
+    "kickoff_utc": "2027-10-03T06:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-d-uruguay-v-portugal@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "8771231a8980460c624174b7420c9fb6d1fea1f6a54f0d205472b461f03e2f47",
+    "kickoff_utc": "2027-10-11T06:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-e-france-v-japan@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "75a07125270ae9286e51310d79622d18821612e4f130e74c95d497f5606fcca2",
+    "kickoff_utc": "2027-10-09T08:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-e-france-v-samoa@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "8e7a856f1fa4375f358e83c3d6f76b7238d63013259fa146a64b95940bfed04c",
+    "kickoff_utc": "2027-10-17T08:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-e-france-v-usa@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "3e048b11e225c021eac484e1d90a468bf021836cb81907106d8eafc971ebbaa6",
+    "kickoff_utc": "2027-10-02T07:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-e-japan-v-samoa@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "4ed6d885f12bf95ea1b69a59f8329ac1b385019b40156fb64f9e7aa18eb28c66",
+    "kickoff_utc": "2027-10-03T01:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-e-japan-v-usa@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "12263b3512418cffcf948f5d1853195af0512376949185eb2d5c31d00f59e534",
+    "kickoff_utc": "2027-10-15T09:30:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-e-usa-v-samoa@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "9159b759429fab74b158500552e727fa766e82a61e26527fcedca65eebe280ce",
+    "kickoff_utc": "2027-10-09T04:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-f-england-v-tonga@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "d9f453110784785ce32470beb7e6bb98fe94f749d35f7131b3dd72057f5dd47d",
+    "kickoff_utc": "2027-10-02T10:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-f-england-v-wales@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "502483e72ba10c1bc82492c11daa5b145a265096456626a75acaf520c535e514",
+    "kickoff_utc": "2027-10-16T08:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-f-england-v-zimbabwe@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "0ea3b7dcac3bb4bc03295e0c99b3fc3c56eb5104e38db1054887cfc4b6636273",
+    "kickoff_utc": "2027-10-08T09:45:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-f-tonga-v-zimbabwe@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "27226ec1064ebbc32e38cf6a45718cd802a31c3b8ad0873093b1a9b9cbca7115",
+    "kickoff_utc": "2027-10-15T10:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-f-wales-v-tonga@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "0d266958a36607a5a943ddba8d3b8a8811d476076a3774dfdbceeecf1815b168",
+    "kickoff_utc": "2027-10-08T07:15:00+00:00",
+    "sequence": 0
+  },
+  "rwc-2027-pool-f-wales-v-zimbabwe@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "0571197e331031d1e6541e357d91832c0fe57ffc3490dc66d4738f3326004107",
+    "kickoff_utc": "2027-10-02T02:45:00+00:00",
+    "sequence": 0
+  },
+  "six-nations-2027-round-1-france-v-wales@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "a7ed68c95f97378a052f64d81af4b452fb02c9d1a60179b17a1b717c703943e1",
+    "kickoff_utc": "2027-02-06T16:40:00+00:00",
+    "sequence": 0
+  },
+  "six-nations-2027-round-1-ireland-v-england@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "6704ba3e692e90e8f870de659db666f3030b17217acd2c6cca1ff9b40f9f1587",
+    "kickoff_utc": "2027-02-05T20:10:00+00:00",
+    "sequence": 0
+  },
+  "six-nations-2027-round-1-scotland-v-italy@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "e9c1459e58d783d6e2a4b25ad36f2da0a0eabe172d544aed272956337172359a",
+    "kickoff_utc": "2027-02-06T14:10:00+00:00",
+    "sequence": 0
+  },
+  "six-nations-2027-round-2-england-v-france@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "46cfe27022f2b724195d39d915e53aee22d720df68853ebf09a84320506156b6",
+    "kickoff_utc": "2027-02-14T15:10:00+00:00",
+    "sequence": 0
+  },
+  "six-nations-2027-round-2-italy-v-ireland@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "5d4daf2e2620aa034a34145ccff2f23d64cb4d070d264280513d37b026e07ffb",
+    "kickoff_utc": "2027-02-13T14:10:00+00:00",
+    "sequence": 0
+  },
+  "six-nations-2027-round-2-scotland-v-wales@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "8d4569de05b96b3344620e48e4d31f5d91df8f02653765e42a372650b7c0ea76",
+    "kickoff_utc": "2027-02-13T16:40:00+00:00",
+    "sequence": 0
+  },
+  "six-nations-2027-round-3-england-v-italy@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "e39996bc96abc5fe833b2a9ce2c5b44bd0cfa2abddf0295d71d5a017ce4eb2fb",
+    "kickoff_utc": "2027-02-20T16:40:00+00:00",
+    "sequence": 0
+  },
+  "six-nations-2027-round-3-france-v-scotland@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "1e529c5028d2939e01648ce2aa1284738d71d278a57bec1d0aa8b574fd93ed27",
+    "kickoff_utc": "2027-02-21T15:10:00+00:00",
+    "sequence": 0
+  },
+  "six-nations-2027-round-3-wales-v-ireland@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "a3cc5352f89ed4747f84dea75599b542041552ceef00cc809c564f2893346454",
+    "kickoff_utc": "2027-02-20T14:10:00+00:00",
+    "sequence": 0
+  },
+  "six-nations-2027-round-4-italy-v-france@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "705f1b8d82a856431e642f6454624ce208a560d98f8c53ea1c8fc1d81374e219",
+    "kickoff_utc": "2027-03-06T14:10:00+00:00",
+    "sequence": 0
+  },
+  "six-nations-2027-round-4-scotland-v-ireland@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "adb0b6436273c59afa320a59b59a21a573ff5b7878cfb481158137cf892d374b",
+    "kickoff_utc": "2027-03-05T20:10:00+00:00",
+    "sequence": 0
+  },
+  "six-nations-2027-round-4-wales-v-england@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "789e5d494dbcb045ae4176bc3e0f43978bceed3cb17cdeedcc99af4cedfd76f8",
+    "kickoff_utc": "2027-03-06T16:40:00+00:00",
+    "sequence": 0
+  },
+  "six-nations-2027-round-5-england-v-scotland@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "c1cb9affdd5136861db367f1040293d8ffc1636605896967305b805a85e0d97f",
+    "kickoff_utc": "2027-03-13T16:40:00+00:00",
+    "sequence": 0
+  },
+  "six-nations-2027-round-5-ireland-v-france@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "1444b5e45694bcbd59cbadfd77a0715ebe6161adcd1210167d55e967f8597bd7",
+    "kickoff_utc": "2027-03-13T20:10:00+00:00",
+    "sequence": 0
+  },
+  "six-nations-2027-round-5-italy-v-wales@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "11a0edec50c914549884b31c4da1d133c2b3b0c5d7f57621f86cdfe4450af6de",
+    "kickoff_utc": "2027-03-13T14:10:00+00:00",
+    "sequence": 0
+  },
+  "summer-2026-round-1-argentina-v-scotland@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "fbc088b1f2c1b164a416cbe475d909e57a81e5ffe486a88eedca91ed0936cf0e",
+    "kickoff_utc": null,
+    "sequence": 0
+  },
+  "summer-2026-round-1-australia-v-ireland@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "98c1341f2febcb1a9802b588d14c2c9bcb8b59058fb006037c15de0b9e513b29",
+    "kickoff_utc": null,
+    "sequence": 0
+  },
+  "summer-2026-round-1-fiji-v-wales@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "f7e86b594c26a38340776b2658b224bfbe34503d826843f825a32d4d20706ed6",
+    "kickoff_utc": null,
+    "sequence": 0
+  },
+  "summer-2026-round-1-japan-v-italy@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "083979ec171646f7015c2b31e9a6e0da83975976ee70c77fc7e05a2dc6bb830c",
+    "kickoff_utc": null,
+    "sequence": 0
+  },
+  "summer-2026-round-1-new-zealand-v-france@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "e13ac10811270dff719160252573799d307230b8baf5b62588dcf48e31df3e83",
+    "kickoff_utc": null,
+    "sequence": 0
+  },
+  "summer-2026-round-1-south-africa-v-england@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "dd7e00d500a84b0f8709db4fa0b3056e7d3b580443ab36ae80e39ef1453edfae",
+    "kickoff_utc": null,
+    "sequence": 0
+  },
+  "summer-2026-round-2-argentina-v-wales@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "6c37ae6f851a49625cbeebe1d24e8f0ea3b7885248882f538b8bb6feed9ea3e8",
+    "kickoff_utc": "2026-07-11T19:10:00+00:00",
+    "sequence": 0
+  },
+  "summer-2026-round-2-australia-v-france@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "064d45476b47faa018823076a4032edd2f40714fb08218ee0a185877706a7d94",
+    "kickoff_utc": "2026-07-11T07:40:00+00:00",
+    "sequence": 0
+  },
+  "summer-2026-round-2-fiji-v-england@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "12b806887e7866a5619a518cd7503695512e21248b9761b99ef3445478b86a7f",
+    "kickoff_utc": "2026-07-11T13:10:00+00:00",
+    "sequence": 0
+  },
+  "summer-2026-round-2-japan-v-ireland@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "69c3f5489696c8a782ad2b88c87332045c3386199da867e2a62282dcfec2b321",
+    "kickoff_utc": "2026-07-11T10:10:00+00:00",
+    "sequence": 0
+  },
+  "summer-2026-round-2-new-zealand-v-italy@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "e349a373b4a262f14da247ad924403d892122995e90a85197797943104b8a403",
+    "kickoff_utc": "2026-07-11T05:10:00+00:00",
+    "sequence": 0
+  },
+  "summer-2026-round-2-south-africa-v-scotland@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "7f55ecfead5896fc3e08a92d4a4f25cd16336532155188e0a1eda838208338d7",
+    "kickoff_utc": "2026-07-11T15:40:00+00:00",
+    "sequence": 0
+  },
+  "summer-2026-round-3-argentina-v-england@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "8fe3b320433d59a82c8e91489367d858e6a6d7e66d42b11e86b72c87f6be5f68",
+    "kickoff_utc": "2026-07-18T19:10:00+00:00",
+    "sequence": 0
+  },
+  "summer-2026-round-3-australia-v-italy@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "c5d03625c6352a7e9a97cec1e6d7c6757a41ceea804319eae48a848aaedbdb80",
+    "kickoff_utc": "2026-07-18T10:10:00+00:00",
+    "sequence": 0
+  },
+  "summer-2026-round-3-fiji-v-scotland@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "411717baa2745352a9fc579e5529166ac0638397098ef8545b19d539c86f495f",
+    "kickoff_utc": "2026-07-18T13:10:00+00:00",
+    "sequence": 0
+  },
+  "summer-2026-round-3-japan-v-france@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "af18d00924c8fedfa7c106ae22e1ab30e09d59da104378d0a89f4fce812f7fe6",
+    "kickoff_utc": "2026-07-18T08:40:00+00:00",
+    "sequence": 0
+  },
+  "summer-2026-round-3-new-zealand-v-ireland@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "7401a34f47ffc5ca7043e2987f3058abe3b003d98b110589c89214a1d7b6e260",
+    "kickoff_utc": "2026-07-18T07:10:00+00:00",
+    "sequence": 0
+  },
+  "summer-2026-round-3-south-africa-v-wales@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "5a6518b101cfe00976eeb1c6fe1b1211fa11bdf8b7008e6f8da6c6f2ecf10bbd",
+    "kickoff_utc": "2026-07-18T15:40:00+00:00",
+    "sequence": 0
+  },
+  "summer-2026-warm-up-matches-barbarians-v-wales@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "71e9ca47b1029b3f84990c1dacf475f7118b95bbf60922d5fde3adc51548205b",
+    "kickoff_utc": null,
+    "sequence": 0
+  },
+  "summer-2026-warm-up-matches-france-xv-v-england-xv@rugby-calendars.ashbridgewater.github.io": {
+    "content_hash": "fd0501241e77e48f069ea0730247b9fed3ff02b787cbf7f19ec25b1e68687638",
+    "kickoff_utc": null,
+    "sequence": 0
+  }
+}

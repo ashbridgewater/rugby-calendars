@@ -1,0 +1,373 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//ashbridgewater//rugby-calendars//EN
+X-WR-CALNAME:Autumn Internationals 2026
+X-WR-TIMEZONE:Europe/London
+X-WR-CALDESC:Autumn Internationals 2026 fixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:autumn-2026-round-4-ireland-v-argentina@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20320513T032424Z
+DTSTART:20261106T201000Z
+DTEND:20261106T220000Z
+SUMMARY:Ireland v Argentina
+LOCATION:Aviva Stadium\, Dublin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Ireland v Argentina\nVenue: Aviva Stadium\, Dublin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-4-italy-v-south-africa@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20340209T025840Z
+DTSTART:20261107T114000Z
+DTEND:20261107T133000Z
+SUMMARY:Italy v South Africa
+LOCATION:Allianz Stadium\, Turin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Italy v South Africa\nVenue: Allianz Stadium\, Turin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-4-scotland-v-new-zealand@rugby-calendars.ashbridgewat
+ er.github.io
+DTSTAMP:20230104T193616Z
+DTSTART:20261107T141000Z
+DTEND:20261107T160000Z
+SUMMARY:Scotland v New Zealand
+LOCATION:Scottish Gas Murrayfield\, Edinburgh
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Scotland v New Zealand\nVenue: Scottish Gas Murrayfield\, Edinb
+ urgh
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-4-wales-v-japan@rugby-calendars.ashbridgewater.github
+ .io
+DTSTAMP:20231127T171957Z
+DTSTART:20261107T164000Z
+DTEND:20261107T183000Z
+SUMMARY:Wales v Japan
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Wales v Japan\nVenue: Principality Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-4-france-v-fiji@rugby-calendars.ashbridgewater.github
+ .io
+DTSTAMP:20321230T154022Z
+DTSTART:20261107T201000Z
+DTEND:20261107T220000Z
+SUMMARY:France v Fiji
+LOCATION:Groupama Stadium\, Lyon
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:France v Fiji\nVenue: Groupama Stadium\, Lyon
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-4-england-v-australia@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20250912T034736Z
+DTSTART:20261108T151000Z
+DTEND:20261108T170000Z
+SUMMARY:England v Australia
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:England v Australia\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-5-france-v-south-africa@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20230317T211917Z
+DTSTART:20261113T201000Z
+DTEND:20261113T220000Z
+SUMMARY:France v South Africa
+LOCATION:Stade de France\, Paris
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:France v South Africa\nVenue: Stade de France\, Paris
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-5-italy-v-argentina@rugby-calendars.ashbridgewater.gi
+ thub.io
+DTSTAMP:20250106T082353Z
+DTSTART:20261114T114000Z
+DTEND:20261114T133000Z
+SUMMARY:Italy v Argentina
+LOCATION:Stadio Luigi Ferraris\, Genoa
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Italy v Argentina\nVenue: Stadio Luigi Ferraris\, Genoa
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-5-wales-v-new-zealand@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20260819T134939Z
+DTSTART:20261114T141000Z
+DTEND:20261114T160000Z
+SUMMARY:Wales v New Zealand
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Wales v New Zealand\nVenue: Principality Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-5-england-v-japan@rugby-calendars.ashbridgewater.gith
+ ub.io
+DTSTAMP:20340604T235836Z
+DTSTART:20261114T164000Z
+DTEND:20261114T183000Z
+SUMMARY:England v Japan
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:England v Japan\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-5-ireland-v-fiji@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20320402T095506Z
+DTSTART:20261114T201000Z
+DTEND:20261114T220000Z
+SUMMARY:Ireland v Fiji
+LOCATION:Aviva Stadium\, Dublin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Ireland v Fiji\nVenue: Aviva Stadium\, Dublin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-5-scotland-v-australia@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20311210T040011Z
+DTSTART:20261115T151000Z
+DTEND:20261115T170000Z
+SUMMARY:Scotland v Australia
+LOCATION:Scottish Gas Murrayfield\, Edinburgh
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Scotland v Australia\nVenue: Scottish Gas Murrayfield\, Edinbur
+ gh
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-6-england-v-new-zealand@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20230807T175625Z
+DTSTART:20261121T141000Z
+DTEND:20261121T160000Z
+SUMMARY:England v New Zealand
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:England v New Zealand\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-6-scotland-v-japan@rugby-calendars.ashbridgewater.git
+ hub.io
+DTSTAMP:20291112T235848Z
+DTSTART:20261121T141000Z
+DTEND:20261121T160000Z
+SUMMARY:Scotland v Japan
+LOCATION:Scottish Gas Murrayfield\, Edinburgh
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Scotland v Japan\nVenue: Scottish Gas Murrayfield\, Edinburgh
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-6-ireland-v-south-africa@rugby-calendars.ashbridgewat
+ er.github.io
+DTSTAMP:20320407T112236Z
+DTSTART:20261121T164000Z
+DTEND:20261121T183000Z
+SUMMARY:Ireland v South Africa
+LOCATION:Aviva Stadium\, Dublin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Ireland v South Africa\nVenue: Aviva Stadium\, Dublin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-6-italy-v-fiji@rugby-calendars.ashbridgewater.github.
+ io
+DTSTAMP:20230106T074036Z
+DTSTART:20261121T164000Z
+DTEND:20261121T183000Z
+SUMMARY:Italy v Fiji
+LOCATION:Bluenergy Stadium\, Udine
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Italy v Fiji\nVenue: Bluenergy Stadium\, Udine
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-6-france-v-argentina@rugby-calendars.ashbridgewater.g
+ ithub.io
+DTSTAMP:20300916T215738Z
+DTSTART:20261121T201000Z
+DTEND:20261121T220000Z
+SUMMARY:France v Argentina
+LOCATION:Stade de France\, Paris
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:France v Argentina\nVenue: Stade de France\, Paris
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-6-wales-v-australia@rugby-calendars.ashbridgewater.gi
+ thub.io
+DTSTAMP:20330611T214042Z
+DTSTART:20261121T201000Z
+DTEND:20261121T220000Z
+SUMMARY:Wales v Australia
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Wales v Australia\nVenue: Principality Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-F-1@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20300922T194745Z
+DTSTART:20261127T164000Z
+DTEND:20261127T183000Z
+SUMMARY:6th Place North v 6th Place South
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:6th Place North v 6th Place South\nVenue: Allianz Stadium\, Twi
+ ckenham\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-F-2@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20270417T111539Z
+DTSTART:20261127T201000Z
+DTEND:20261127T220000Z
+SUMMARY:3rd Place North v 3rd Place South
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:3rd Place North v 3rd Place South\nVenue: Allianz Stadium\, Twi
+ ckenham\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-F-3@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20210323T175856Z
+DTSTART:20261128T131000Z
+DTEND:20261128T150000Z
+SUMMARY:5th Place North v 5th Place South
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:5th Place North v 5th Place South\nVenue: Allianz Stadium\, Twi
+ ckenham\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-F-4@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20320528T031824Z
+DTSTART:20261128T164000Z
+DTEND:20261128T183000Z
+SUMMARY:2nd Place North v 2nd Place South
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:2nd Place North v 2nd Place South\nVenue: Allianz Stadium\, Twi
+ ckenham\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-F-5@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20241214T132104Z
+DTSTART:20261129T131000Z
+DTEND:20261129T150000Z
+SUMMARY:4th Place North v 4th Place South
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:4th Place North v 4th Place South\nVenue: Allianz Stadium\, Twi
+ ckenham\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-F-6@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20280822T234812Z
+DTSTART:20261129T164000Z
+DTEND:20261129T183000Z
+SUMMARY:1st Place North v 1st Place South
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby\,Autumn Internationals 2026
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:1st Place North v 1st Place South\nVenue: Allianz Stadium\, Twi
+ ckenham\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,236 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//ashbridgewater//rugby-calendars//EN
+X-WR-CALNAME:Six Nations 2027
+X-WR-TIMEZONE:Europe/London
+X-WR-CALDESC:Six Nations 2027 fixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:six-nations-2027-round-1-ireland-v-england@rugby-calendars.ashbridgewat
+ er.github.io
+DTSTAMP:20230316T150726Z
+DTSTART:20270205T201000Z
+DTEND:20270205T220000Z
+SUMMARY:Ireland v England
+LOCATION:Aviva Stadium\, Dublin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Six Nations 2027
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Ireland v England\nVenue: Aviva Stadium\, Dublin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-1-scotland-v-italy@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20330803T114111Z
+DTSTART:20270206T141000Z
+DTEND:20270206T160000Z
+SUMMARY:Scotland v Italy
+LOCATION:Scottish Gas Murrayfield\, Edinburgh
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Six Nations 2027
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Scotland v Italy\nVenue: Scottish Gas Murrayfield\, Edinburgh
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-1-france-v-wales@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20251218T153655Z
+DTSTART:20270206T164000Z
+DTEND:20270206T183000Z
+SUMMARY:France v Wales
+LOCATION:Stade de France\, Paris
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Six Nations 2027
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:France v Wales\nVenue: Stade de France\, Paris
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-2-italy-v-ireland@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20210710T174256Z
+DTSTART:20270213T141000Z
+DTEND:20270213T160000Z
+SUMMARY:Italy v Ireland
+LOCATION:Stadio Olimpico\, Rome
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Six Nations 2027
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Italy v Ireland\nVenue: Stadio Olimpico\, Rome
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-2-scotland-v-wales@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20331012T125937Z
+DTSTART:20270213T164000Z
+DTEND:20270213T183000Z
+SUMMARY:Scotland v Wales
+LOCATION:Scottish Gas Murrayfield\, Edinburgh
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Six Nations 2027
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Scotland v Wales\nVenue: Scottish Gas Murrayfield\, Edinburgh
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-2-england-v-france@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20220407T113306Z
+DTSTART:20270214T151000Z
+DTEND:20270214T170000Z
+SUMMARY:England v France
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Six Nations 2027
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:England v France\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-3-wales-v-ireland@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20290119T010638Z
+DTSTART:20270220T141000Z
+DTEND:20270220T160000Z
+SUMMARY:Wales v Ireland
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Six Nations 2027
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Wales v Ireland\nVenue: Principality Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-3-england-v-italy@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20270504T030619Z
+DTSTART:20270220T164000Z
+DTEND:20270220T183000Z
+SUMMARY:England v Italy
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Six Nations 2027
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:England v Italy\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-3-france-v-scotland@rugby-calendars.ashbridgewat
+ er.github.io
+DTSTAMP:20290627T204258Z
+DTSTART:20270221T151000Z
+DTEND:20270221T170000Z
+SUMMARY:France v Scotland
+LOCATION:Stade de France\, Paris
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Six Nations 2027
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:France v Scotland\nVenue: Stade de France\, Paris
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-4-scotland-v-ireland@rugby-calendars.ashbridgewa
+ ter.github.io
+DTSTAMP:20260223T193931Z
+DTSTART:20270305T201000Z
+DTEND:20270305T220000Z
+SUMMARY:Scotland v Ireland
+LOCATION:Scottish Gas Murrayfield\, Edinburgh
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Six Nations 2027
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Scotland v Ireland\nVenue: Scottish Gas Murrayfield\, Edinburgh
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-4-italy-v-france@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20341109T154128Z
+DTSTART:20270306T141000Z
+DTEND:20270306T160000Z
+SUMMARY:Italy v France
+LOCATION:Stadio Olimpico\, Rome
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Six Nations 2027
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Italy v France\nVenue: Stadio Olimpico\, Rome
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-4-wales-v-england@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20220331T005004Z
+DTSTART:20270306T164000Z
+DTEND:20270306T183000Z
+SUMMARY:Wales v England
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Six Nations 2027
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Wales v England\nVenue: Principality Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-5-italy-v-wales@rugby-calendars.ashbridgewater.g
+ ithub.io
+DTSTAMP:20220322T154201Z
+DTSTART:20270313T141000Z
+DTEND:20270313T160000Z
+SUMMARY:Italy v Wales
+LOCATION:Stadio Olimpico\, Rome
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Six Nations 2027
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Italy v Wales\nVenue: Stadio Olimpico\, Rome
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-5-england-v-scotland@rugby-calendars.ashbridgewa
+ ter.github.io
+DTSTAMP:20290716T121057Z
+DTSTART:20270313T164000Z
+DTEND:20270313T183000Z
+SUMMARY:England v Scotland
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Six Nations 2027
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:England v Scotland\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-5-ireland-v-france@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20330719T180156Z
+DTSTART:20270313T201000Z
+DTEND:20270313T220000Z
+SUMMARY:Ireland v France
+LOCATION:Aviva Stadium\, Dublin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Six Nations 2027
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Ireland v France\nVenue: Aviva Stadium\, Dublin
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

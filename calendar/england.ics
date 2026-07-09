@@ -1,0 +1,237 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//ashbridgewater//rugby-calendars//EN
+X-WR-CALNAME:England Rugby Fixtures
+X-WR-TIMEZONE:Europe/London
+X-WR-CALDESC:All England international fixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:summer-2026-warm-up-matches-france-xv-v-england-xv@rugby-calendars.ashb
+ ridgewater.github.io
+DTSTAMP:20280901T070839Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:France XV 35-19 England XV
+LOCATION:Stade de la Rabine\, Vannes
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,England
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:France XV 35-19 England XV\nVenue: Stade de la Rabine\, Vannes
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-1-south-africa-v-england@rugby-calendars.ashbridgewat
+ er.github.io
+DTSTAMP:20330904T023208Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:South Africa 45-21 England
+LOCATION:Ellis Park\, Johannesburg
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,England
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:South Africa 45-21 England\nVenue: Ellis Park\, Johannesburg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-2-fiji-v-england@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20230110T162320Z
+DTSTART:20260711T131000Z
+DTEND:20260711T150000Z
+SUMMARY:Fiji v England
+LOCATION:Hill Dickinson Stadium\, Liverpool
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,England
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Fiji v England\nVenue: Hill Dickinson Stadium\, Liverpool
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-3-argentina-v-england@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20310929T150949Z
+DTSTART:20260718T191000Z
+DTEND:20260718T210000Z
+SUMMARY:Argentina v England
+LOCATION:Estadio Unico Madre de Ciudades\, Santiago del Estero
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,England
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Argentina v England\nVenue: Estadio Unico Madre de Ciudades\, S
+ antiago del Estero
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-4-england-v-australia@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20250912T034736Z
+DTSTART:20261108T151000Z
+DTEND:20261108T170000Z
+SUMMARY:England v Australia
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,England
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:England v Australia\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-5-england-v-japan@rugby-calendars.ashbridgewater.gith
+ ub.io
+DTSTAMP:20340604T235836Z
+DTSTART:20261114T164000Z
+DTEND:20261114T183000Z
+SUMMARY:England v Japan
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,England
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:England v Japan\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-6-england-v-new-zealand@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20230807T175625Z
+DTSTART:20261121T141000Z
+DTEND:20261121T160000Z
+SUMMARY:England v New Zealand
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,England
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:England v New Zealand\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-1-ireland-v-england@rugby-calendars.ashbridgewat
+ er.github.io
+DTSTAMP:20230316T150726Z
+DTSTART:20270205T201000Z
+DTEND:20270205T220000Z
+SUMMARY:Ireland v England
+LOCATION:Aviva Stadium\, Dublin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,England
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Ireland v England\nVenue: Aviva Stadium\, Dublin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-2-england-v-france@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20220407T113306Z
+DTSTART:20270214T151000Z
+DTEND:20270214T170000Z
+SUMMARY:England v France
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,England
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:England v France\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-3-england-v-italy@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20270504T030619Z
+DTSTART:20270220T164000Z
+DTEND:20270220T183000Z
+SUMMARY:England v Italy
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,England
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:England v Italy\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-4-wales-v-england@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20220331T005004Z
+DTSTART:20270306T164000Z
+DTEND:20270306T183000Z
+SUMMARY:Wales v England
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,England
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Wales v England\nVenue: Principality Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-5-england-v-scotland@rugby-calendars.ashbridgewa
+ ter.github.io
+DTSTAMP:20290716T121057Z
+DTSTART:20270313T164000Z
+DTEND:20270313T183000Z
+SUMMARY:England v Scotland
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,England
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:England v Scotland\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-f-england-v-tonga@rugby-calendars.ashbridgewater.github.i
+ o
+DTSTAMP:20320102T040940Z
+DTSTART:20271002T101500Z
+DTEND:20271002T120500Z
+SUMMARY:England v Tonga
+LOCATION:Brisbane Stadium\, Brisbane
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,England
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:England v Tonga\nVenue: Brisbane Stadium\, Brisbane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-f-england-v-zimbabwe@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20260307T181731Z
+DTSTART:20271008T094500Z
+DTEND:20271008T113500Z
+SUMMARY:England v Zimbabwe
+LOCATION:Adelaide Oval\, Adelaide
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,England
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:England v Zimbabwe\nVenue: Adelaide Oval\, Adelaide
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-f-england-v-wales@rugby-calendars.ashbridgewater.github.i
+ o
+DTSTAMP:20301123T175337Z
+DTSTART:20271016T084500Z
+DTEND:20271016T103500Z
+SUMMARY:England v Wales
+LOCATION:Stadium Australia\, Sydney
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,England
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:England v Wales\nVenue: Stadium Australia\, Sydney
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

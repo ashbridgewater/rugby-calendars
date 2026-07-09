@@ -1,0 +1,236 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//ashbridgewater//rugby-calendars//EN
+X-WR-CALNAME:Wales Rugby Fixtures
+X-WR-TIMEZONE:Europe/London
+X-WR-CALDESC:All Wales international fixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:summer-2026-warm-up-matches-barbarians-v-wales@rugby-calendars.ashbridg
+ ewater.github.io
+DTSTAMP:20270902T132418Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Barbarians 31-33 Wales
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Wales
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Barbarians 31-33 Wales\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-1-fiji-v-wales@rugby-calendars.ashbridgewater.github.
+ io
+DTSTAMP:20240301T202054Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Fiji 24-39 Wales
+LOCATION:Cardiff City Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Wales
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Fiji 24-39 Wales\nVenue: Cardiff City Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-2-argentina-v-wales@rugby-calendars.ashbridgewater.gi
+ thub.io
+DTSTAMP:20290228T140722Z
+DTSTART:20260711T191000Z
+DTEND:20260711T210000Z
+SUMMARY:Argentina v Wales
+LOCATION:Estadio San Juan del Bicentenario\, San Juan
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Wales
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Argentina v Wales\nVenue: Estadio San Juan del Bicentenario\, S
+ an Juan
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-3-south-africa-v-wales@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20290323T022415Z
+DTSTART:20260718T154000Z
+DTEND:20260718T173000Z
+SUMMARY:South Africa v Wales
+LOCATION:Hollywoodbets Kings Park\, Durban
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Wales
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:South Africa v Wales\nVenue: Hollywoodbets Kings Park\, Durban
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-4-wales-v-japan@rugby-calendars.ashbridgewater.github
+ .io
+DTSTAMP:20231127T171957Z
+DTSTART:20261107T164000Z
+DTEND:20261107T183000Z
+SUMMARY:Wales v Japan
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Wales
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Wales v Japan\nVenue: Principality Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-5-wales-v-new-zealand@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20260819T134939Z
+DTSTART:20261114T141000Z
+DTEND:20261114T160000Z
+SUMMARY:Wales v New Zealand
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Wales
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Wales v New Zealand\nVenue: Principality Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-6-wales-v-australia@rugby-calendars.ashbridgewater.gi
+ thub.io
+DTSTAMP:20330611T214042Z
+DTSTART:20261121T201000Z
+DTEND:20261121T220000Z
+SUMMARY:Wales v Australia
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Wales
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Wales v Australia\nVenue: Principality Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-1-france-v-wales@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20251218T153655Z
+DTSTART:20270206T164000Z
+DTEND:20270206T183000Z
+SUMMARY:France v Wales
+LOCATION:Stade de France\, Paris
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Wales
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:France v Wales\nVenue: Stade de France\, Paris
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-2-scotland-v-wales@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20331012T125937Z
+DTSTART:20270213T164000Z
+DTEND:20270213T183000Z
+SUMMARY:Scotland v Wales
+LOCATION:Scottish Gas Murrayfield\, Edinburgh
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Wales
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Scotland v Wales\nVenue: Scottish Gas Murrayfield\, Edinburgh
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-3-wales-v-ireland@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20290119T010638Z
+DTSTART:20270220T141000Z
+DTEND:20270220T160000Z
+SUMMARY:Wales v Ireland
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Wales
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Wales v Ireland\nVenue: Principality Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-4-wales-v-england@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20220331T005004Z
+DTSTART:20270306T164000Z
+DTEND:20270306T183000Z
+SUMMARY:Wales v England
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Wales
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Wales v England\nVenue: Principality Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-5-italy-v-wales@rugby-calendars.ashbridgewater.g
+ ithub.io
+DTSTAMP:20220322T154201Z
+DTSTART:20270313T141000Z
+DTEND:20270313T160000Z
+SUMMARY:Italy v Wales
+LOCATION:Stadio Olimpico\, Rome
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Wales
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Italy v Wales\nVenue: Stadio Olimpico\, Rome
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-f-wales-v-zimbabwe@rugby-calendars.ashbridgewater.github.
+ io
+DTSTAMP:20290925T200536Z
+DTSTART:20271002T024500Z
+DTEND:20271002T043500Z
+SUMMARY:Wales v Zimbabwe
+LOCATION:Adelaide Oval\, Adelaide
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Wales
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Wales v Zimbabwe\nVenue: Adelaide Oval\, Adelaide
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-f-wales-v-tonga@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20250122T185014Z
+DTSTART:20271008T071500Z
+DTEND:20271008T090500Z
+SUMMARY:Wales v Tonga
+LOCATION:Docklands Stadium\, Melbourne
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Wales
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Wales v Tonga\nVenue: Docklands Stadium\, Melbourne
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-f-england-v-wales@rugby-calendars.ashbridgewater.github.i
+ o
+DTSTAMP:20301123T175337Z
+DTSTART:20271016T084500Z
+DTEND:20271016T103500Z
+SUMMARY:England v Wales
+LOCATION:Stadium Australia\, Sydney
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Wales
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:England v Wales\nVenue: Stadium Australia\, Sydney
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,315 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//ashbridgewater//rugby-calendars//EN
+X-WR-CALNAME:Summer Internationals 2026
+X-WR-TIMEZONE:Europe/London
+X-WR-CALDESC:Summer Internationals 2026 fixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:summer-2026-warm-up-matches-france-xv-v-england-xv@rugby-calendars.ashb
+ ridgewater.github.io
+DTSTAMP:20280901T070839Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:France XV 35-19 England XV
+LOCATION:Stade de la Rabine\, Vannes
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:France XV 35-19 England XV\nVenue: Stade de la Rabine\, Vannes
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-warm-up-matches-barbarians-v-wales@rugby-calendars.ashbridg
+ ewater.github.io
+DTSTAMP:20270902T132418Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Barbarians 31-33 Wales
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Barbarians 31-33 Wales\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-1-argentina-v-scotland@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20280319T153321Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Argentina 38-47 Scotland
+LOCATION:Estadio Mario Alberto Kempes\, Cordoba
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Argentina 38-47 Scotland\nVenue: Estadio Mario Alberto Kempes\,
+  Cordoba
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-1-australia-v-ireland@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20310313T220635Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Australia 31-33 Ireland
+LOCATION:Allianz Stadium\, Sydney
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Australia 31-33 Ireland\nVenue: Allianz Stadium\, Sydney
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-1-fiji-v-wales@rugby-calendars.ashbridgewater.github.
+ io
+DTSTAMP:20240301T202054Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Fiji 24-39 Wales
+LOCATION:Cardiff City Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Fiji 24-39 Wales\nVenue: Cardiff City Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-1-japan-v-italy@rugby-calendars.ashbridgewater.github
+ .io
+DTSTAMP:20300209T122702Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Japan 27-10 Italy
+LOCATION:Chichibunomiya Rugby Stadium\, Tokyo
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Japan 27-10 Italy\nVenue: Chichibunomiya Rugby Stadium\, Tokyo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-1-new-zealand-v-france@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20301223T072215Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:New Zealand 34-32 France
+LOCATION:One NZ Stadium\, Christchurch
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:New Zealand 34-32 France\nVenue: One NZ Stadium\, Christchurch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-1-south-africa-v-england@rugby-calendars.ashbridgewat
+ er.github.io
+DTSTAMP:20330904T023208Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:South Africa 45-21 England
+LOCATION:Ellis Park\, Johannesburg
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:South Africa 45-21 England\nVenue: Ellis Park\, Johannesburg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-2-new-zealand-v-italy@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20280912T150050Z
+DTSTART:20260711T051000Z
+DTEND:20260711T070000Z
+SUMMARY:New Zealand v Italy
+LOCATION:Hnry Stadium\, Wellington
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:New Zealand v Italy\nVenue: Hnry Stadium\, Wellington
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-2-australia-v-france@rugby-calendars.ashbridgewater.g
+ ithub.io
+DTSTAMP:20300520T132111Z
+DTSTART:20260711T074000Z
+DTEND:20260711T093000Z
+SUMMARY:Australia v France
+LOCATION:Suncorp Stadium\, Brisbane
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Australia v France\nVenue: Suncorp Stadium\, Brisbane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-2-japan-v-ireland@rugby-calendars.ashbridgewater.gith
+ ub.io
+DTSTAMP:20221215T133102Z
+DTSTART:20260711T101000Z
+DTEND:20260711T120000Z
+SUMMARY:Japan v Ireland
+LOCATION:McDonald Jones Stadium\, Newcastle
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Japan v Ireland\nVenue: McDonald Jones Stadium\, Newcastle
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-2-fiji-v-england@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20230110T162320Z
+DTSTART:20260711T131000Z
+DTEND:20260711T150000Z
+SUMMARY:Fiji v England
+LOCATION:Hill Dickinson Stadium\, Liverpool
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Fiji v England\nVenue: Hill Dickinson Stadium\, Liverpool
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-2-south-africa-v-scotland@rugby-calendars.ashbridgewa
+ ter.github.io
+DTSTAMP:20330818T224648Z
+DTSTART:20260711T154000Z
+DTEND:20260711T173000Z
+SUMMARY:South Africa v Scotland
+LOCATION:Loftus Versfeld Stadium\, Pretoria
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:South Africa v Scotland\nVenue: Loftus Versfeld Stadium\, Preto
+ ria
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-2-argentina-v-wales@rugby-calendars.ashbridgewater.gi
+ thub.io
+DTSTAMP:20290228T140722Z
+DTSTART:20260711T191000Z
+DTEND:20260711T210000Z
+SUMMARY:Argentina v Wales
+LOCATION:Estadio San Juan del Bicentenario\, San Juan
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Argentina v Wales\nVenue: Estadio San Juan del Bicentenario\, S
+ an Juan
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-3-new-zealand-v-ireland@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20310215T185455Z
+DTSTART:20260718T071000Z
+DTEND:20260718T090000Z
+SUMMARY:New Zealand v Ireland
+LOCATION:Eden Park\, Auckland
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:New Zealand v Ireland\nVenue: Eden Park\, Auckland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-3-japan-v-france@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20340228T094752Z
+DTSTART:20260718T084000Z
+DTEND:20260718T103000Z
+SUMMARY:Japan v France
+LOCATION:Japan National Stadium\, Tokyo
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Japan v France\nVenue: Japan National Stadium\, Tokyo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-3-australia-v-italy@rugby-calendars.ashbridgewater.gi
+ thub.io
+DTSTAMP:20321226T105757Z
+DTSTART:20260718T101000Z
+DTEND:20260718T120000Z
+SUMMARY:Australia v Italy
+LOCATION:HBF Park\, Perth
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Australia v Italy\nVenue: HBF Park\, Perth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-3-fiji-v-scotland@rugby-calendars.ashbridgewater.gith
+ ub.io
+DTSTAMP:20280727T132820Z
+DTSTART:20260718T131000Z
+DTEND:20260718T150000Z
+SUMMARY:Fiji v Scotland
+LOCATION:Scottish Gas Murrayfield\, Edinburgh
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Fiji v Scotland\nVenue: Scottish Gas Murrayfield\, Edinburgh
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-3-south-africa-v-wales@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20290323T022415Z
+DTSTART:20260718T154000Z
+DTEND:20260718T173000Z
+SUMMARY:South Africa v Wales
+LOCATION:Hollywoodbets Kings Park\, Durban
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:South Africa v Wales\nVenue: Hollywoodbets Kings Park\, Durban
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-3-argentina-v-england@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20310929T150949Z
+DTSTART:20260718T191000Z
+DTEND:20260718T210000Z
+SUMMARY:Argentina v England
+LOCATION:Estadio Unico Madre de Ciudades\, Santiago del Estero
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Summer Internationals 2026
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Argentina v England\nVenue: Estadio Unico Madre de Ciudades\, S
+ antiago del Estero
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,17 +1,64 @@
-# You can define multiple calendars here and switch between them from the workflow.
-calendars:
-  autumn_2025:
-    cal_name: "Autumn Internationals 2025"
-    csv_path: "data/autumn_internationals_2025.csv"
-    ics_path: "calendar/autumn_internationals_2025.ics"
-    source_url: "https://www.autumn-internationals.co.uk/2025/"
-    default_duration_minutes: 120
-    timezone: "UTC"  # display-only label for X-WR-TIMEZONE
+# Rugby Calendars configuration
+# =============================
+# "Pick and choose" happens here: flip `enabled` on any source or derived
+# calendar to control what gets generated and committed.
+#
+# Each SOURCE is scraped and produces one per-tournament .ics.
+# DERIVED calendars are built from the combined scraped fixtures (not re-scraped):
+#   - nations: one .ics per listed team (its fixtures across ALL tournaments)
+#   - all:     one .ics containing every fixture (deduplicated)
 
-    six_nations_2026:
-    cal_name: "Six Nations 2026"
-    csv_path: "data/six_nations_2026.csv"
-    ics_path: "calendar/six_nations_2026.ics"
-    source_url: "https://www.six-nations-guide.co.uk/2026/"
-    default_duration_minutes: 120
-    timezone: "UTC"
+sources:
+  autumn_2026:
+    enabled: true
+    provider: aggregator
+    source_url: "https://www.autumn-internationals.co.uk/2026/"
+    tournament: autumn
+    season: 2026
+    cal_name: "Autumn Internationals 2026"
+
+  summer_2026:
+    enabled: true
+    provider: aggregator
+    source_url: "https://www.autumn-internationals.co.uk/summer-2026/"
+    tournament: summer
+    season: 2026
+    cal_name: "Summer Internationals 2026"
+
+  six_nations_2027:
+    enabled: true
+    provider: aggregator
+    source_url: "https://www.six-nations-guide.co.uk/2027/"
+    tournament: six_nations
+    season: 2027
+    cal_name: "Six Nations 2027"
+
+  rwc_2027:
+    enabled: true
+    provider: aggregator
+    source_url: "https://www.autumn-internationals.co.uk/RWC-2027/"
+    tournament: rwc
+    season: 2027
+    cal_name: "Rugby World Cup 2027"
+
+derived:
+  nations:
+    enabled: true
+    teams:
+      - England
+      - Scotland
+      - Wales
+      - Ireland
+  all:
+    enabled: true
+    cal_name: "Rugby Internationals — All Fixtures"
+
+output:
+  calendar_dir: calendar
+  data_dir: data
+  state_dir: state
+
+metadata:
+  refresh_interval: PT12H
+  event_duration_minutes: 110
+  timezone: "Europe/London"

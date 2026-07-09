@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//ashbridgewater//rugby-calendars//EN
+X-WR-CALNAME:Ireland Rugby Fixtures
+X-WR-TIMEZONE:Europe/London
+X-WR-CALDESC:All Ireland international fixtures
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:summer-2026-round-1-australia-v-ireland@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20310313T220635Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Australia 31-33 Ireland
+LOCATION:Allianz Stadium\, Sydney
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Ireland
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Australia 31-33 Ireland\nVenue: Allianz Stadium\, Sydney
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-2-japan-v-ireland@rugby-calendars.ashbridgewater.gith
+ ub.io
+DTSTAMP:20221215T133102Z
+DTSTART:20260711T101000Z
+DTEND:20260711T120000Z
+SUMMARY:Japan v Ireland
+LOCATION:McDonald Jones Stadium\, Newcastle
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Ireland
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Japan v Ireland\nVenue: McDonald Jones Stadium\, Newcastle
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-3-new-zealand-v-ireland@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20310215T185455Z
+DTSTART:20260718T071000Z
+DTEND:20260718T090000Z
+SUMMARY:New Zealand v Ireland
+LOCATION:Eden Park\, Auckland
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Ireland
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:New Zealand v Ireland\nVenue: Eden Park\, Auckland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-4-ireland-v-argentina@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20320513T032424Z
+DTSTART:20261106T201000Z
+DTEND:20261106T220000Z
+SUMMARY:Ireland v Argentina
+LOCATION:Aviva Stadium\, Dublin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Ireland
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Ireland v Argentina\nVenue: Aviva Stadium\, Dublin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-5-ireland-v-fiji@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20320402T095506Z
+DTSTART:20261114T201000Z
+DTEND:20261114T220000Z
+SUMMARY:Ireland v Fiji
+LOCATION:Aviva Stadium\, Dublin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Ireland
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Ireland v Fiji\nVenue: Aviva Stadium\, Dublin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-6-ireland-v-south-africa@rugby-calendars.ashbridgewat
+ er.github.io
+DTSTAMP:20320407T112236Z
+DTSTART:20261121T164000Z
+DTEND:20261121T183000Z
+SUMMARY:Ireland v South Africa
+LOCATION:Aviva Stadium\, Dublin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Ireland
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Ireland v South Africa\nVenue: Aviva Stadium\, Dublin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-1-ireland-v-england@rugby-calendars.ashbridgewat
+ er.github.io
+DTSTAMP:20230316T150726Z
+DTSTART:20270205T201000Z
+DTEND:20270205T220000Z
+SUMMARY:Ireland v England
+LOCATION:Aviva Stadium\, Dublin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Ireland
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Ireland v England\nVenue: Aviva Stadium\, Dublin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-2-italy-v-ireland@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20210710T174256Z
+DTSTART:20270213T141000Z
+DTEND:20270213T160000Z
+SUMMARY:Italy v Ireland
+LOCATION:Stadio Olimpico\, Rome
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Ireland
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Italy v Ireland\nVenue: Stadio Olimpico\, Rome
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-3-wales-v-ireland@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20290119T010638Z
+DTSTART:20270220T141000Z
+DTEND:20270220T160000Z
+SUMMARY:Wales v Ireland
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Ireland
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Wales v Ireland\nVenue: Principality Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-4-scotland-v-ireland@rugby-calendars.ashbridgewa
+ ter.github.io
+DTSTAMP:20260223T193931Z
+DTSTART:20270305T201000Z
+DTEND:20270305T220000Z
+SUMMARY:Scotland v Ireland
+LOCATION:Scottish Gas Murrayfield\, Edinburgh
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Ireland
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Scotland v Ireland\nVenue: Scottish Gas Murrayfield\, Edinburgh
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-5-ireland-v-france@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20330719T180156Z
+DTSTART:20270313T201000Z
+DTEND:20270313T220000Z
+SUMMARY:Ireland v France
+LOCATION:Aviva Stadium\, Dublin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Ireland
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Ireland v France\nVenue: Aviva Stadium\, Dublin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-d-ireland-v-portugal@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20270218T063729Z
+DTSTART:20271004T061500Z
+DTEND:20271004T080500Z
+SUMMARY:Ireland v Portugal
+LOCATION:Sydney Football Stadium\, Sydney
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Ireland
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Ireland v Portugal\nVenue: Sydney Football Stadium\, Sydney
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-d-ireland-v-scotland@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20250110T014033Z
+DTSTART:20271010T094500Z
+DTEND:20271010T113500Z
+SUMMARY:Ireland v Scotland
+LOCATION:Perth Stadium\, Perth
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Ireland
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Ireland v Scotland\nVenue: Perth Stadium\, Perth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-d-ireland-v-uruguay@rugby-calendars.ashbridgewater.github
+ .io
+DTSTAMP:20270726T002420Z
+DTSTART:20271017T034500Z
+DTEND:20271017T053500Z
+SUMMARY:Ireland v Uruguay
+LOCATION:Docklands Stadium\, Melbourne
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby\,Ireland
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Ireland v Uruguay\nVenue: Docklands Stadium\, Melbourne
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

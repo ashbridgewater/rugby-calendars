@@ -1,0 +1,1672 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//ashbridgewater//rugby-calendars//EN
+X-WR-CALNAME:Rugby Internationals — All Fixtures
+X-WR-TIMEZONE:Europe/London
+X-WR-CALDESC:Every international rugby fixture
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:summer-2026-warm-up-matches-france-xv-v-england-xv@rugby-calendars.ashb
+ ridgewater.github.io
+DTSTAMP:20280901T070839Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:France XV 35-19 England XV
+LOCATION:Stade de la Rabine\, Vannes
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:France XV 35-19 England XV\nVenue: Stade de la Rabine\, Vannes
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-warm-up-matches-barbarians-v-wales@rugby-calendars.ashbridg
+ ewater.github.io
+DTSTAMP:20270902T132418Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Barbarians 31-33 Wales
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Barbarians 31-33 Wales\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-1-argentina-v-scotland@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20280319T153321Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Argentina 38-47 Scotland
+LOCATION:Estadio Mario Alberto Kempes\, Cordoba
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Argentina 38-47 Scotland\nVenue: Estadio Mario Alberto Kempes\,
+  Cordoba
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-1-australia-v-ireland@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20310313T220635Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Australia 31-33 Ireland
+LOCATION:Allianz Stadium\, Sydney
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Australia 31-33 Ireland\nVenue: Allianz Stadium\, Sydney
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-1-fiji-v-wales@rugby-calendars.ashbridgewater.github.
+ io
+DTSTAMP:20240301T202054Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Fiji 24-39 Wales
+LOCATION:Cardiff City Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Fiji 24-39 Wales\nVenue: Cardiff City Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-1-japan-v-italy@rugby-calendars.ashbridgewater.github
+ .io
+DTSTAMP:20300209T122702Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Japan 27-10 Italy
+LOCATION:Chichibunomiya Rugby Stadium\, Tokyo
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Japan 27-10 Italy\nVenue: Chichibunomiya Rugby Stadium\, Tokyo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-1-new-zealand-v-france@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20301223T072215Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:New Zealand 34-32 France
+LOCATION:One NZ Stadium\, Christchurch
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:New Zealand 34-32 France\nVenue: One NZ Stadium\, Christchurch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-1-south-africa-v-england@rugby-calendars.ashbridgewat
+ er.github.io
+DTSTAMP:20330904T023208Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:South Africa 45-21 England
+LOCATION:Ellis Park\, Johannesburg
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:South Africa 45-21 England\nVenue: Ellis Park\, Johannesburg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-2-new-zealand-v-italy@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20280912T150050Z
+DTSTART:20260711T051000Z
+DTEND:20260711T070000Z
+SUMMARY:New Zealand v Italy
+LOCATION:Hnry Stadium\, Wellington
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:New Zealand v Italy\nVenue: Hnry Stadium\, Wellington
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-2-australia-v-france@rugby-calendars.ashbridgewater.g
+ ithub.io
+DTSTAMP:20300520T132111Z
+DTSTART:20260711T074000Z
+DTEND:20260711T093000Z
+SUMMARY:Australia v France
+LOCATION:Suncorp Stadium\, Brisbane
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Australia v France\nVenue: Suncorp Stadium\, Brisbane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-2-japan-v-ireland@rugby-calendars.ashbridgewater.gith
+ ub.io
+DTSTAMP:20221215T133102Z
+DTSTART:20260711T101000Z
+DTEND:20260711T120000Z
+SUMMARY:Japan v Ireland
+LOCATION:McDonald Jones Stadium\, Newcastle
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Japan v Ireland\nVenue: McDonald Jones Stadium\, Newcastle
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-2-fiji-v-england@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20230110T162320Z
+DTSTART:20260711T131000Z
+DTEND:20260711T150000Z
+SUMMARY:Fiji v England
+LOCATION:Hill Dickinson Stadium\, Liverpool
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Fiji v England\nVenue: Hill Dickinson Stadium\, Liverpool
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-2-south-africa-v-scotland@rugby-calendars.ashbridgewa
+ ter.github.io
+DTSTAMP:20330818T224648Z
+DTSTART:20260711T154000Z
+DTEND:20260711T173000Z
+SUMMARY:South Africa v Scotland
+LOCATION:Loftus Versfeld Stadium\, Pretoria
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:South Africa v Scotland\nVenue: Loftus Versfeld Stadium\, Preto
+ ria
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-2-argentina-v-wales@rugby-calendars.ashbridgewater.gi
+ thub.io
+DTSTAMP:20290228T140722Z
+DTSTART:20260711T191000Z
+DTEND:20260711T210000Z
+SUMMARY:Argentina v Wales
+LOCATION:Estadio San Juan del Bicentenario\, San Juan
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Argentina v Wales\nVenue: Estadio San Juan del Bicentenario\, S
+ an Juan
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-3-new-zealand-v-ireland@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20310215T185455Z
+DTSTART:20260718T071000Z
+DTEND:20260718T090000Z
+SUMMARY:New Zealand v Ireland
+LOCATION:Eden Park\, Auckland
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:New Zealand v Ireland\nVenue: Eden Park\, Auckland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-3-japan-v-france@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20340228T094752Z
+DTSTART:20260718T084000Z
+DTEND:20260718T103000Z
+SUMMARY:Japan v France
+LOCATION:Japan National Stadium\, Tokyo
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Japan v France\nVenue: Japan National Stadium\, Tokyo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-3-australia-v-italy@rugby-calendars.ashbridgewater.gi
+ thub.io
+DTSTAMP:20321226T105757Z
+DTSTART:20260718T101000Z
+DTEND:20260718T120000Z
+SUMMARY:Australia v Italy
+LOCATION:HBF Park\, Perth
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Australia v Italy\nVenue: HBF Park\, Perth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-3-fiji-v-scotland@rugby-calendars.ashbridgewater.gith
+ ub.io
+DTSTAMP:20280727T132820Z
+DTSTART:20260718T131000Z
+DTEND:20260718T150000Z
+SUMMARY:Fiji v Scotland
+LOCATION:Scottish Gas Murrayfield\, Edinburgh
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Fiji v Scotland\nVenue: Scottish Gas Murrayfield\, Edinburgh
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-3-south-africa-v-wales@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20290323T022415Z
+DTSTART:20260718T154000Z
+DTEND:20260718T173000Z
+SUMMARY:South Africa v Wales
+LOCATION:Hollywoodbets Kings Park\, Durban
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:South Africa v Wales\nVenue: Hollywoodbets Kings Park\, Durban
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-3-argentina-v-england@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20310929T150949Z
+DTSTART:20260718T191000Z
+DTEND:20260718T210000Z
+SUMMARY:Argentina v England
+LOCATION:Estadio Unico Madre de Ciudades\, Santiago del Estero
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Argentina v England\nVenue: Estadio Unico Madre de Ciudades\, S
+ antiago del Estero
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-4-ireland-v-argentina@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20320513T032424Z
+DTSTART:20261106T201000Z
+DTEND:20261106T220000Z
+SUMMARY:Ireland v Argentina
+LOCATION:Aviva Stadium\, Dublin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Ireland v Argentina\nVenue: Aviva Stadium\, Dublin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-4-italy-v-south-africa@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20340209T025840Z
+DTSTART:20261107T114000Z
+DTEND:20261107T133000Z
+SUMMARY:Italy v South Africa
+LOCATION:Allianz Stadium\, Turin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Italy v South Africa\nVenue: Allianz Stadium\, Turin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-4-scotland-v-new-zealand@rugby-calendars.ashbridgewat
+ er.github.io
+DTSTAMP:20230104T193616Z
+DTSTART:20261107T141000Z
+DTEND:20261107T160000Z
+SUMMARY:Scotland v New Zealand
+LOCATION:Scottish Gas Murrayfield\, Edinburgh
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Scotland v New Zealand\nVenue: Scottish Gas Murrayfield\, Edinb
+ urgh
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-4-wales-v-japan@rugby-calendars.ashbridgewater.github
+ .io
+DTSTAMP:20231127T171957Z
+DTSTART:20261107T164000Z
+DTEND:20261107T183000Z
+SUMMARY:Wales v Japan
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Wales v Japan\nVenue: Principality Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-4-france-v-fiji@rugby-calendars.ashbridgewater.github
+ .io
+DTSTAMP:20321230T154022Z
+DTSTART:20261107T201000Z
+DTEND:20261107T220000Z
+SUMMARY:France v Fiji
+LOCATION:Groupama Stadium\, Lyon
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:France v Fiji\nVenue: Groupama Stadium\, Lyon
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-4-england-v-australia@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20250912T034736Z
+DTSTART:20261108T151000Z
+DTEND:20261108T170000Z
+SUMMARY:England v Australia
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:England v Australia\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-5-france-v-south-africa@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20230317T211917Z
+DTSTART:20261113T201000Z
+DTEND:20261113T220000Z
+SUMMARY:France v South Africa
+LOCATION:Stade de France\, Paris
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:France v South Africa\nVenue: Stade de France\, Paris
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-5-italy-v-argentina@rugby-calendars.ashbridgewater.gi
+ thub.io
+DTSTAMP:20250106T082353Z
+DTSTART:20261114T114000Z
+DTEND:20261114T133000Z
+SUMMARY:Italy v Argentina
+LOCATION:Stadio Luigi Ferraris\, Genoa
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Italy v Argentina\nVenue: Stadio Luigi Ferraris\, Genoa
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-5-wales-v-new-zealand@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20260819T134939Z
+DTSTART:20261114T141000Z
+DTEND:20261114T160000Z
+SUMMARY:Wales v New Zealand
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Wales v New Zealand\nVenue: Principality Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-5-england-v-japan@rugby-calendars.ashbridgewater.gith
+ ub.io
+DTSTAMP:20340604T235836Z
+DTSTART:20261114T164000Z
+DTEND:20261114T183000Z
+SUMMARY:England v Japan
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:England v Japan\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-5-ireland-v-fiji@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20320402T095506Z
+DTSTART:20261114T201000Z
+DTEND:20261114T220000Z
+SUMMARY:Ireland v Fiji
+LOCATION:Aviva Stadium\, Dublin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Ireland v Fiji\nVenue: Aviva Stadium\, Dublin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-5-scotland-v-australia@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20311210T040011Z
+DTSTART:20261115T151000Z
+DTEND:20261115T170000Z
+SUMMARY:Scotland v Australia
+LOCATION:Scottish Gas Murrayfield\, Edinburgh
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Scotland v Australia\nVenue: Scottish Gas Murrayfield\, Edinbur
+ gh
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-6-england-v-new-zealand@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20230807T175625Z
+DTSTART:20261121T141000Z
+DTEND:20261121T160000Z
+SUMMARY:England v New Zealand
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:England v New Zealand\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-6-scotland-v-japan@rugby-calendars.ashbridgewater.git
+ hub.io
+DTSTAMP:20291112T235848Z
+DTSTART:20261121T141000Z
+DTEND:20261121T160000Z
+SUMMARY:Scotland v Japan
+LOCATION:Scottish Gas Murrayfield\, Edinburgh
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Scotland v Japan\nVenue: Scottish Gas Murrayfield\, Edinburgh
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-6-ireland-v-south-africa@rugby-calendars.ashbridgewat
+ er.github.io
+DTSTAMP:20320407T112236Z
+DTSTART:20261121T164000Z
+DTEND:20261121T183000Z
+SUMMARY:Ireland v South Africa
+LOCATION:Aviva Stadium\, Dublin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Ireland v South Africa\nVenue: Aviva Stadium\, Dublin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-6-italy-v-fiji@rugby-calendars.ashbridgewater.github.
+ io
+DTSTAMP:20230106T074036Z
+DTSTART:20261121T164000Z
+DTEND:20261121T183000Z
+SUMMARY:Italy v Fiji
+LOCATION:Bluenergy Stadium\, Udine
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Italy v Fiji\nVenue: Bluenergy Stadium\, Udine
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-6-france-v-argentina@rugby-calendars.ashbridgewater.g
+ ithub.io
+DTSTAMP:20300916T215738Z
+DTSTART:20261121T201000Z
+DTEND:20261121T220000Z
+SUMMARY:France v Argentina
+LOCATION:Stade de France\, Paris
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:France v Argentina\nVenue: Stade de France\, Paris
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-6-wales-v-australia@rugby-calendars.ashbridgewater.gi
+ thub.io
+DTSTAMP:20330611T214042Z
+DTSTART:20261121T201000Z
+DTEND:20261121T220000Z
+SUMMARY:Wales v Australia
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Wales v Australia\nVenue: Principality Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-F-1@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20300922T194745Z
+DTSTART:20261127T164000Z
+DTEND:20261127T183000Z
+SUMMARY:6th Place North v 6th Place South
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:6th Place North v 6th Place South\nVenue: Allianz Stadium\, Twi
+ ckenham\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-F-2@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20270417T111539Z
+DTSTART:20261127T201000Z
+DTEND:20261127T220000Z
+SUMMARY:3rd Place North v 3rd Place South
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:3rd Place North v 3rd Place South\nVenue: Allianz Stadium\, Twi
+ ckenham\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-F-3@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20210323T175856Z
+DTSTART:20261128T131000Z
+DTEND:20261128T150000Z
+SUMMARY:5th Place North v 5th Place South
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:5th Place North v 5th Place South\nVenue: Allianz Stadium\, Twi
+ ckenham\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-F-4@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20320528T031824Z
+DTSTART:20261128T164000Z
+DTEND:20261128T183000Z
+SUMMARY:2nd Place North v 2nd Place South
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:2nd Place North v 2nd Place South\nVenue: Allianz Stadium\, Twi
+ ckenham\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-F-5@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20241214T132104Z
+DTSTART:20261129T131000Z
+DTEND:20261129T150000Z
+SUMMARY:4th Place North v 4th Place South
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:4th Place North v 4th Place South\nVenue: Allianz Stadium\, Twi
+ ckenham\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-F-6@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20280822T234812Z
+DTSTART:20261129T164000Z
+DTEND:20261129T183000Z
+SUMMARY:1st Place North v 1st Place South
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:1st Place North v 1st Place South\nVenue: Allianz Stadium\, Twi
+ ckenham\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-1-ireland-v-england@rugby-calendars.ashbridgewat
+ er.github.io
+DTSTAMP:20230316T150726Z
+DTSTART:20270205T201000Z
+DTEND:20270205T220000Z
+SUMMARY:Ireland v England
+LOCATION:Aviva Stadium\, Dublin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Ireland v England\nVenue: Aviva Stadium\, Dublin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-1-scotland-v-italy@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20330803T114111Z
+DTSTART:20270206T141000Z
+DTEND:20270206T160000Z
+SUMMARY:Scotland v Italy
+LOCATION:Scottish Gas Murrayfield\, Edinburgh
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Scotland v Italy\nVenue: Scottish Gas Murrayfield\, Edinburgh
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-1-france-v-wales@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20251218T153655Z
+DTSTART:20270206T164000Z
+DTEND:20270206T183000Z
+SUMMARY:France v Wales
+LOCATION:Stade de France\, Paris
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:France v Wales\nVenue: Stade de France\, Paris
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-2-italy-v-ireland@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20210710T174256Z
+DTSTART:20270213T141000Z
+DTEND:20270213T160000Z
+SUMMARY:Italy v Ireland
+LOCATION:Stadio Olimpico\, Rome
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Italy v Ireland\nVenue: Stadio Olimpico\, Rome
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-2-scotland-v-wales@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20331012T125937Z
+DTSTART:20270213T164000Z
+DTEND:20270213T183000Z
+SUMMARY:Scotland v Wales
+LOCATION:Scottish Gas Murrayfield\, Edinburgh
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Scotland v Wales\nVenue: Scottish Gas Murrayfield\, Edinburgh
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-2-england-v-france@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20220407T113306Z
+DTSTART:20270214T151000Z
+DTEND:20270214T170000Z
+SUMMARY:England v France
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:England v France\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-3-wales-v-ireland@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20290119T010638Z
+DTSTART:20270220T141000Z
+DTEND:20270220T160000Z
+SUMMARY:Wales v Ireland
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Wales v Ireland\nVenue: Principality Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-3-england-v-italy@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20270504T030619Z
+DTSTART:20270220T164000Z
+DTEND:20270220T183000Z
+SUMMARY:England v Italy
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:England v Italy\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-3-france-v-scotland@rugby-calendars.ashbridgewat
+ er.github.io
+DTSTAMP:20290627T204258Z
+DTSTART:20270221T151000Z
+DTEND:20270221T170000Z
+SUMMARY:France v Scotland
+LOCATION:Stade de France\, Paris
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:France v Scotland\nVenue: Stade de France\, Paris
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-4-scotland-v-ireland@rugby-calendars.ashbridgewa
+ ter.github.io
+DTSTAMP:20260223T193931Z
+DTSTART:20270305T201000Z
+DTEND:20270305T220000Z
+SUMMARY:Scotland v Ireland
+LOCATION:Scottish Gas Murrayfield\, Edinburgh
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Scotland v Ireland\nVenue: Scottish Gas Murrayfield\, Edinburgh
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-4-italy-v-france@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20341109T154128Z
+DTSTART:20270306T141000Z
+DTEND:20270306T160000Z
+SUMMARY:Italy v France
+LOCATION:Stadio Olimpico\, Rome
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Italy v France\nVenue: Stadio Olimpico\, Rome
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-4-wales-v-england@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20220331T005004Z
+DTSTART:20270306T164000Z
+DTEND:20270306T183000Z
+SUMMARY:Wales v England
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Wales v England\nVenue: Principality Stadium\, Cardiff
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-5-italy-v-wales@rugby-calendars.ashbridgewater.g
+ ithub.io
+DTSTAMP:20220322T154201Z
+DTSTART:20270313T141000Z
+DTEND:20270313T160000Z
+SUMMARY:Italy v Wales
+LOCATION:Stadio Olimpico\, Rome
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Italy v Wales\nVenue: Stadio Olimpico\, Rome
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-5-england-v-scotland@rugby-calendars.ashbridgewa
+ ter.github.io
+DTSTAMP:20290716T121057Z
+DTSTART:20270313T164000Z
+DTEND:20270313T183000Z
+SUMMARY:England v Scotland
+LOCATION:Allianz Stadium\, Twickenham
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:England v Scotland\nVenue: Allianz Stadium\, Twickenham
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:six-nations-2027-round-5-ireland-v-france@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20330719T180156Z
+DTSTART:20270313T201000Z
+DTEND:20270313T220000Z
+SUMMARY:Ireland v France
+LOCATION:Aviva Stadium\, Dublin
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.six-nations-guide.co.uk/2027/
+DESCRIPTION:Ireland v France\nVenue: Aviva Stadium\, Dublin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-a-australia-v-hong-kong@rugby-calendars.ashbridgewater.gi
+ thub.io
+DTSTAMP:20220826T214431Z
+DTSTART:20271001T104500Z
+DTEND:20271001T123500Z
+SUMMARY:Australia v Hong Kong
+LOCATION:Perth Stadium\, Perth
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Australia v Hong Kong\nVenue: Perth Stadium\, Perth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-f-wales-v-zimbabwe@rugby-calendars.ashbridgewater.github.
+ io
+DTSTAMP:20290925T200536Z
+DTSTART:20271002T024500Z
+DTEND:20271002T043500Z
+SUMMARY:Wales v Zimbabwe
+LOCATION:Adelaide Oval\, Adelaide
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Wales v Zimbabwe\nVenue: Adelaide Oval\, Adelaide
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-a-new-zealand-v-chile@rugby-calendars.ashbridgewater.gith
+ ub.io
+DTSTAMP:20330116T013525Z
+DTSTART:20271002T051500Z
+DTEND:20271002T070500Z
+SUMMARY:New Zealand v Chile
+LOCATION:Perth Stadium\, Perth
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:New Zealand v Chile\nVenue: Perth Stadium\, Perth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-e-france-v-usa@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20210604T075205Z
+DTSTART:20271002T074500Z
+DTEND:20271002T093500Z
+SUMMARY:France v USA
+LOCATION:Docklands Stadium\, Melbourne
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:France v USA\nVenue: Docklands Stadium\, Melbourne
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-f-england-v-tonga@rugby-calendars.ashbridgewater.github.i
+ o
+DTSTAMP:20320102T040940Z
+DTSTART:20271002T101500Z
+DTEND:20271002T120500Z
+SUMMARY:England v Tonga
+LOCATION:Brisbane Stadium\, Brisbane
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:England v Tonga\nVenue: Brisbane Stadium\, Brisbane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-e-japan-v-samoa@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20220814T071555Z
+DTSTART:20271003T011500Z
+DTEND:20271003T030500Z
+SUMMARY:Japan v Samoa
+LOCATION:Newcastle Stadium\, Newcastle
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Japan v Samoa\nVenue: Newcastle Stadium\, Newcastle
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-b-south-africa-v-italy@rugby-calendars.ashbridgewater.git
+ hub.io
+DTSTAMP:20240801T082224Z
+DTSTART:20271003T034500Z
+DTEND:20271003T053500Z
+SUMMARY:South Africa v Italy
+LOCATION:Adelaide Oval\, Adelaide
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:South Africa v Italy\nVenue: Adelaide Oval\, Adelaide
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-d-scotland-v-uruguay@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20320608T090808Z
+DTSTART:20271003T061500Z
+DTEND:20271003T080500Z
+SUMMARY:Scotland v Uruguay
+LOCATION:Docklands Stadium\, Melbourne
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Scotland v Uruguay\nVenue: Docklands Stadium\, Melbourne
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-b-georgia-v-romania@rugby-calendars.ashbridgewater.github
+ .io
+DTSTAMP:20330207T072705Z
+DTSTART:20271003T101500Z
+DTEND:20271003T120500Z
+SUMMARY:Georgia v Romania
+LOCATION:North Queensland Stadium\, Townsville
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Georgia v Romania\nVenue: North Queensland Stadium\, Townsville
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-c-fiji-v-spain@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20210519T092227Z
+DTSTART:20271004T031500Z
+DTEND:20271004T050500Z
+SUMMARY:Fiji v Spain
+LOCATION:Newcastle Stadium\, Newcastle
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Fiji v Spain\nVenue: Newcastle Stadium\, Newcastle
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-d-ireland-v-portugal@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20270218T063729Z
+DTSTART:20271004T061500Z
+DTEND:20271004T080500Z
+SUMMARY:Ireland v Portugal
+LOCATION:Sydney Football Stadium\, Sydney
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Ireland v Portugal\nVenue: Sydney Football Stadium\, Sydney
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-c-argentina-v-canada@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20200818T110624Z
+DTSTART:20271004T084500Z
+DTEND:20271004T103500Z
+SUMMARY:Argentina v Canada
+LOCATION:Brisbane Stadium\, Brisbane
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Argentina v Canada\nVenue: Brisbane Stadium\, Brisbane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-f-wales-v-tonga@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20250122T185014Z
+DTSTART:20271008T071500Z
+DTEND:20271008T090500Z
+SUMMARY:Wales v Tonga
+LOCATION:Docklands Stadium\, Melbourne
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Wales v Tonga\nVenue: Docklands Stadium\, Melbourne
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-f-england-v-zimbabwe@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20260307T181731Z
+DTSTART:20271008T094500Z
+DTEND:20271008T113500Z
+SUMMARY:England v Zimbabwe
+LOCATION:Adelaide Oval\, Adelaide
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:England v Zimbabwe\nVenue: Adelaide Oval\, Adelaide
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-e-usa-v-samoa@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20291229T101911Z
+DTSTART:20271009T041500Z
+DTEND:20271009T060500Z
+SUMMARY:USA v Samoa
+LOCATION:Perth Stadium\, Perth
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:USA v Samoa\nVenue: Perth Stadium\, Perth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-a-new-zealand-v-australia@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20280215T135451Z
+DTSTART:20271009T061000Z
+DTEND:20271009T080000Z
+SUMMARY:New Zealand v Australia
+LOCATION:Stadium Australia\, Sydney
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:New Zealand v Australia\nVenue: Stadium Australia\, Sydney
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-e-france-v-japan@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20340501T163626Z
+DTSTART:20271009T084500Z
+DTEND:20271009T103500Z
+SUMMARY:France v Japan
+LOCATION:Brisbane Stadium\, Brisbane
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:France v Japan\nVenue: Brisbane Stadium\, Brisbane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-a-chile-v-hong-kong@rugby-calendars.ashbridgewater.github
+ .io
+DTSTAMP:20210411T073500Z
+DTSTART:20271009T101500Z
+DTEND:20271009T120500Z
+SUMMARY:Chile v Hong Kong
+LOCATION:North Queensland Stadium\, Townsville
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Chile v Hong Kong\nVenue: North Queensland Stadium\, Townsville
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-c-fiji-v-canada@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20210302T211747Z
+DTSTART:20271010T014500Z
+DTEND:20271010T033500Z
+SUMMARY:Fiji v Canada
+LOCATION:Adelaide Oval\, Adelaide
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Fiji v Canada\nVenue: Adelaide Oval\, Adelaide
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-c-argentina-v-spain@rugby-calendars.ashbridgewater.github
+ .io
+DTSTAMP:20220202T210526Z
+DTSTART:20271010T041500Z
+DTEND:20271010T060500Z
+SUMMARY:Argentina v Spain
+LOCATION:Docklands Stadium\, Melbourne
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Argentina v Spain\nVenue: Docklands Stadium\, Melbourne
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-b-south-africa-v-georgia@rugby-calendars.ashbridgewater.g
+ ithub.io
+DTSTAMP:20280425T191210Z
+DTSTART:20271010T064500Z
+DTEND:20271010T083500Z
+SUMMARY:South Africa v Georgia
+LOCATION:Brisbane Stadium\, Brisbane
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:South Africa v Georgia\nVenue: Brisbane Stadium\, Brisbane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-d-ireland-v-scotland@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20250110T014033Z
+DTSTART:20271010T094500Z
+DTEND:20271010T113500Z
+SUMMARY:Ireland v Scotland
+LOCATION:Perth Stadium\, Perth
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Ireland v Scotland\nVenue: Perth Stadium\, Perth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-d-uruguay-v-portugal@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20311124T074504Z
+DTSTART:20271011T061500Z
+DTEND:20271011T080500Z
+SUMMARY:Uruguay v Portugal
+LOCATION:Newcastle Stadium\, Newcastle
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Uruguay v Portugal\nVenue: Newcastle Stadium\, Newcastle
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-b-italy-v-romania@rugby-calendars.ashbridgewater.github.i
+ o
+DTSTAMP:20270126T131353Z
+DTSTART:20271011T084500Z
+DTEND:20271011T103500Z
+SUMMARY:Italy v Romania
+LOCATION:Sydney Football Stadium\, Sydney
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Italy v Romania\nVenue: Sydney Football Stadium\, Sydney
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-a-new-zealand-v-hong-kong@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20280323T071103Z
+DTSTART:20271015T061500Z
+DTEND:20271015T080500Z
+SUMMARY:New Zealand v Hong Kong
+LOCATION:Docklands Stadium\, Melbourne
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:New Zealand v Hong Kong\nVenue: Docklands Stadium\, Melbourne
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-e-japan-v-usa@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20261209T145041Z
+DTSTART:20271015T093000Z
+DTEND:20271015T112000Z
+SUMMARY:Japan v USA
+LOCATION:Adelaide Oval\, Adelaide
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Japan v USA\nVenue: Adelaide Oval\, Adelaide
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-f-tonga-v-zimbabwe@rugby-calendars.ashbridgewater.github.
+ io
+DTSTAMP:20250730T103910Z
+DTSTART:20271015T101500Z
+DTEND:20271015T120500Z
+SUMMARY:Tonga v Zimbabwe
+LOCATION:North Queensland Stadium\, Townsville
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Tonga v Zimbabwe\nVenue: North Queensland Stadium\, Townsville
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-c-argentina-v-fiji@rugby-calendars.ashbridgewater.github.
+ io
+DTSTAMP:20220927T061100Z
+DTSTART:20271016T024500Z
+DTEND:20271016T043500Z
+SUMMARY:Argentina v Fiji
+LOCATION:Adelaide Oval\, Adelaide
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Argentina v Fiji\nVenue: Adelaide Oval\, Adelaide
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-a-australia-v-chile@rugby-calendars.ashbridgewater.github
+ .io
+DTSTAMP:20271117T174339Z
+DTSTART:20271016T051000Z
+DTEND:20271016T070000Z
+SUMMARY:Australia v Chile
+LOCATION:Brisbane Stadium\, Brisbane
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Australia v Chile\nVenue: Brisbane Stadium\, Brisbane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-f-england-v-wales@rugby-calendars.ashbridgewater.github.i
+ o
+DTSTAMP:20301123T175337Z
+DTSTART:20271016T084500Z
+DTEND:20271016T103500Z
+SUMMARY:England v Wales
+LOCATION:Stadium Australia\, Sydney
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:England v Wales\nVenue: Stadium Australia\, Sydney
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-c-spain-v-canada@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20250730T035708Z
+DTSTART:20271016T101500Z
+DTEND:20271016T120500Z
+SUMMARY:Spain v Canada
+LOCATION:North Queensland Stadium\, Townsville
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Spain v Canada\nVenue: North Queensland Stadium\, Townsville
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-b-italy-v-georgia@rugby-calendars.ashbridgewater.github.i
+ o
+DTSTAMP:20240809T085748Z
+DTSTART:20271017T011500Z
+DTEND:20271017T030500Z
+SUMMARY:Italy v Georgia
+LOCATION:Newcastle Stadium\, Newcastle
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Italy v Georgia\nVenue: Newcastle Stadium\, Newcastle
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-d-ireland-v-uruguay@rugby-calendars.ashbridgewater.github
+ .io
+DTSTAMP:20270726T002420Z
+DTSTART:20271017T034500Z
+DTEND:20271017T053500Z
+SUMMARY:Ireland v Uruguay
+LOCATION:Docklands Stadium\, Melbourne
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Ireland v Uruguay\nVenue: Docklands Stadium\, Melbourne
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-d-scotland-v-portugal@rugby-calendars.ashbridgewater.gith
+ ub.io
+DTSTAMP:20330311T174409Z
+DTSTART:20271017T061500Z
+DTEND:20271017T080500Z
+SUMMARY:Scotland v Portugal
+LOCATION:Brisbane Stadium\, Brisbane
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Scotland v Portugal\nVenue: Brisbane Stadium\, Brisbane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-e-france-v-samoa@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20261209T191028Z
+DTSTART:20271017T084500Z
+DTEND:20271017T103500Z
+SUMMARY:France v Samoa
+LOCATION:Sydney Football Stadium\, Sydney
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:France v Samoa\nVenue: Sydney Football Stadium\, Sydney
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-pool-b-south-africa-v-romania@rugby-calendars.ashbridgewater.g
+ ithub.io
+DTSTAMP:20261217T123516Z
+DTSTART:20271017T111500Z
+DTEND:20271017T130500Z
+SUMMARY:South Africa v Romania
+LOCATION:Perth Stadium\, Perth
+STATUS:CONFIRMED
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:South Africa v Romania\nVenue: Perth Stadium\, Perth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-R16-1@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20290415T222217Z
+DTSTART:20271023T031500Z
+DTEND:20271023T050500Z
+SUMMARY:Runner-up Pool C v Runner-up Pool F
+LOCATION:Sydney Football Stadium\, Sydney
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Runner-up Pool C v Runner-up Pool F\nVenue: Sydney Football Sta
+ dium\, Sydney\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-R16-2@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20270402T024311Z
+DTSTART:20271023T054500Z
+DTEND:20271023T073500Z
+SUMMARY:Winner Pool A v Best 3rd Pool C/E/F
+LOCATION:Brisbane Stadium\, Brisbane
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Winner Pool A v Best 3rd Pool C/E/F\nVenue: Brisbane Stadium\, 
+ Brisbane\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-R16-3@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20310819T045444Z
+DTSTART:20271023T081500Z
+DTEND:20271023T100500Z
+SUMMARY:Winner Pool E v Runner-up Pool D
+LOCATION:Docklands Stadium\, Melbourne
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Winner Pool E v Runner-up Pool D\nVenue: Docklands Stadium\, Me
+ lbourne\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-R16-4@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20291229T094801Z
+DTSTART:20271023T104500Z
+DTEND:20271023T123500Z
+SUMMARY:Winner Pool B v Best 3rd Pool D/E/F
+LOCATION:Perth Stadium\, Perth
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Winner Pool B v Best 3rd Pool D/E/F\nVenue: Perth Stadium\, Per
+ th\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-R16-5@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20291117T184020Z
+DTSTART:20271024T031500Z
+DTEND:20271024T050500Z
+SUMMARY:Winner Pool C v Best 3rd Pool A/E/F
+LOCATION:Sydney Football Stadium\, Sydney
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Winner Pool C v Best 3rd Pool A/E/F\nVenue: Sydney Football Sta
+ dium\, Sydney\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-R16-6@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20310906T184908Z
+DTSTART:20271024T054500Z
+DTEND:20271024T073500Z
+SUMMARY:Winner Pool D v Best 3rd Pool B/E/F
+LOCATION:Docklands Stadium\, Melbourne
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Winner Pool D v Best 3rd Pool B/E/F\nVenue: Docklands Stadium\,
+  Melbourne\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-R16-7@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20200227T150716Z
+DTSTART:20271024T081500Z
+DTEND:20271024T100500Z
+SUMMARY:Runner-up Pool A v Runner-up Pool E
+LOCATION:Brisbane Stadium\, Brisbane
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Runner-up Pool A v Runner-up Pool E\nVenue: Brisbane Stadium\, 
+ Brisbane\n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-R16-8@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20260225T015815Z
+DTSTART:20271024T104500Z
+DTEND:20271024T123500Z
+SUMMARY:Winner Pool F v Runner-up Pool B
+LOCATION:Perth Stadium\, Perth
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Winner Pool F v Runner-up Pool B\nVenue: Perth Stadium\, Perth\
+ n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-QF-1@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20240626T153604Z
+DTSTART:20271030T054500Z
+DTEND:20271030T073500Z
+SUMMARY:Winner R16 2 v Winner R16 4
+LOCATION:Stadium Australia\, Sydney
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Winner R16 2 v Winner R16 4\nVenue: Stadium Australia\, Sydney\
+ n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-QF-2@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20230309T003309Z
+DTSTART:20271030T084500Z
+DTEND:20271030T103500Z
+SUMMARY:Winner R16 1 v Winner R16 3
+LOCATION:Brisbane Stadium\, Brisbane
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Winner R16 1 v Winner R16 3\nVenue: Brisbane Stadium\, Brisbane
+ \n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-QF-3@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20280721T031514Z
+DTSTART:20271031T060000Z
+DTEND:20271031T075000Z
+SUMMARY:Winner R16 5 v Winner R16 6
+LOCATION:Brisbane Stadium\, Brisbane
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Winner R16 5 v Winner R16 6\nVenue: Brisbane Stadium\, Brisbane
+ \n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-QF-4@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20220813T035755Z
+DTSTART:20271031T090000Z
+DTEND:20271031T105000Z
+SUMMARY:Winner R16 7 v Winner R16 8
+LOCATION:Stadium Australia\, Sydney
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Winner R16 7 v Winner R16 8\nVenue: Stadium Australia\, Sydney\
+ n(Teams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-SF-1@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20230226T230222Z
+DTSTART:20271105T090000Z
+DTEND:20271105T105000Z
+SUMMARY:Winner QF1 v Winner QF2
+LOCATION:Stadium Australia\, Sydney
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Winner QF1 v Winner QF2\nVenue: Stadium Australia\, Sydney\n(Te
+ ams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-SF-2@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20240502T191943Z
+DTSTART:20271106T090000Z
+DTEND:20271106T105000Z
+SUMMARY:Winner QF3 v Winner QF4
+LOCATION:Stadium Australia\, Sydney
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Winner QF3 v Winner QF4\nVenue: Stadium Australia\, Sydney\n(Te
+ ams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-BR-1@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20260912T174708Z
+DTSTART:20271112T084500Z
+DTEND:20271112T103500Z
+SUMMARY:Loser SF1 v Loser SF2
+LOCATION:Stadium Australia\, Sydney
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Loser SF1 v Loser SF2\nVenue: Stadium Australia\, Sydney\n(Team
+ s to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:rwc-2027-F-1@rugby-calendars.ashbridgewater.github.io
+DTSTAMP:20241202T001629Z
+DTSTART:20271113T090000Z
+DTEND:20271113T105000Z
+SUMMARY:Winner SF1 v Winner SF2
+LOCATION:Stadium Australia\, Sydney
+STATUS:TENTATIVE
+SEQUENCE:0
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/RWC-2027/
+DESCRIPTION:Winner SF1 v Winner SF2\nVenue: Stadium Australia\, Sydney\n(Te
+ ams to be confirmed)
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
