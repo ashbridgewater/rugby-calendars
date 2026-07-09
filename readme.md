@@ -52,21 +52,47 @@ There are two independent layers of control:
    Calendar apps can't filter a single feed, which is why each tournament and
    each nation gets its own file.
 
-### Add another tournament
+### Add a new season or tournament
 
-Append a block under `sources:` in `config/calendars.yml`:
+New years are **not** auto-discovered (the system never guesses at URLs that may
+not be published yet) — but adding one is a ~30-second edit. Append a block under
+`sources:` in [`config/calendars.yml`](config/calendars.yml). For example, once the
+2028 Six Nations fixtures are out:
 
 ```yaml
-  autumn_2028:
+  six_nations_2028:
     enabled: true
     provider: aggregator
-    source_url: "https://www.autumn-internationals.co.uk/2028/"
-    tournament: autumn
+    source_url: "https://www.six-nations-guide.co.uk/2028/"
+    tournament: six_nations
     season: 2028
-    cal_name: "Autumn Internationals 2028"
+    cal_name: "Six Nations 2028"
 ```
 
-Add nations by editing `derived.nations.teams`. That's it — the next run builds it.
+**Easiest way — edit straight on GitHub:** open `config/calendars.yml`, click the
+✏️ pencil, paste the block, **Commit changes**. That commit triggers the workflow,
+which builds `calendar/six_nations_2028.ics` within a couple of minutes and then
+keeps it fresh daily. No local setup, no command line.
+
+Any team in the new tournament also flows automatically into its per-nation feed
+(`england.ics`, …) and into `all.ics` — no extra step.
+
+Source URL patterns:
+
+- Six Nations → `https://www.six-nations-guide.co.uk/<year>/`
+- Autumn / Summer / RWC → `https://www.autumn-internationals.co.uk/<path>/`
+  (e.g. `/2027/`, `/summer-2027/`, `/RWC-2031/`)
+
+### Recipes: common calendars
+
+| I want… | Do this |
+|---|---|
+| **Every England match, all competitions** | Subscribe to `…/calendar/england.ics`. It already merges England's fixtures from every configured tournament and picks up new ones automatically. |
+| One other home nation | Subscribe to `scotland.ics`, `wales.ics`, or `ireland.ics`. |
+| **A nation not yet listed** (e.g. France) | Add it to `derived.nations.teams` in the config (a new `- France` line). A `france.ics` feed appears on the next run. |
+| **Just a couple of tournaments** (e.g. Six Nations + RWC) | Subscribe to `six_nations_2027.ics` *and* `rwc_2027.ics` — add each URL separately in your calendar app. |
+| Absolutely everything | Subscribe to `all.ics`. |
+| Stop generating a feed | Set `enabled: false` on that source (or on the `nations` / `all` block) in the config. |
 
 ---
 
@@ -89,6 +115,11 @@ Add nations by editing `derived.nations.teams`. That's it — the next run build
   knockout resolving from "Winner Pool A" to a real team) land as in-place edits,
   not duplicate events.
 - **Played matches** keep the score in the title (e.g. `England 34-32 Australia`).
+- **Event length.** Each fixture is scheduled for **1 h 50 m** (kick-off + 110
+  minutes). The sources don't publish end times, so this is a uniform estimate
+  (≈ 80 minutes play + half-time + stoppages). Change `event_duration_minutes` in
+  [`config/calendars.yml`](config/calendars.yml) to resize every event at once.
+  Finished matches with no recoverable kick-off time appear as all-day entries.
 - **Fail-safe.** If a source can't be scraped or returns nothing, the run aborts
   and the previously published calendars are left untouched — never overwritten
   with empty or partial data.
