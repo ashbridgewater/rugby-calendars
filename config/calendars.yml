@@ -60,5 +60,5 @@ output:
 
 metadata:
   refresh_interval: PT12H
-  event_duration_minutes: 110
+  event_duration_minutes: 120
   timezone: "Europe/London"
