@@ -29,6 +29,7 @@ tournament, follow a single nation, or take the lot.
 | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (all tournaments) | `https://raw.githubusercontent.com/ashbridgewater/rugby-calendars/main/calendar/scotland.ics` |
 | 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (all tournaments) | `https://raw.githubusercontent.com/ashbridgewater/rugby-calendars/main/calendar/wales.ics` |
 | ☘️ Ireland (all tournaments) | `https://raw.githubusercontent.com/ashbridgewater/rugby-calendars/main/calendar/ireland.ics` |
+| **Six Nations + England** (all comps) | `https://raw.githubusercontent.com/ashbridgewater/rugby-calendars/main/calendar/six_nations_plus_england.ics` |
 
 ### Apple Calendar (macOS / iOS)
 **File → New Calendar Subscription…**, paste the URL, set **Auto-refresh** to *Daily*.
@@ -46,7 +47,7 @@ tournament, follow a single nation, or take the lot.
 There are two independent layers of control:
 
 1. **What gets generated** — edit [`config/calendars.yml`](config/calendars.yml) and flip
-   `enabled: true` / `false` on any source or on the derived `nations` / `all` feeds.
+   `enabled: true` / `false` on any source or on the derived `nations` / `all` / `custom` feeds.
    Disabled feeds simply stop being rebuilt.
 2. **What you follow** — subscribe to whichever `.ics` URL(s) you want above.
    Calendar apps can't filter a single feed, which is why each tournament and
@@ -90,9 +91,30 @@ Source URL patterns:
 | **Every England match, all competitions** | Subscribe to `…/calendar/england.ics`. It already merges England's fixtures from every configured tournament and picks up new ones automatically. |
 | One other home nation | Subscribe to `scotland.ics`, `wales.ics`, or `ireland.ics`. |
 | **A nation not yet listed** (e.g. France) | Add it to `derived.nations.teams` in the config (a new `- France` line). A `france.ics` feed appears on the next run. |
+| **A whole tournament + a team elsewhere** (e.g. all Six Nations + England outside it) | Ready-made — subscribe to `six_nations_plus_england.ics`. Build your own under `derived.custom` (see [Composite feeds](#composite-feeds-mix-whole-tournaments--specific-teams)). |
 | **Just a couple of tournaments** (e.g. Six Nations + RWC) | Subscribe to `six_nations_2027.ics` *and* `rwc_2027.ics` — add each URL separately in your calendar app. |
 | Absolutely everything | Subscribe to `all.ics`. |
-| Stop generating a feed | Set `enabled: false` on that source (or on the `nations` / `all` block) in the config. |
+| Stop generating a feed | Set `enabled: false` on that source (or on the `nations` / `all` / `custom` block) in the config. |
+
+### Composite feeds (mix whole tournaments + specific teams)
+
+Want something like *the entire Six Nations **plus** every England game in the other
+competitions*? Add a block under `derived.custom` in [`config/calendars.yml`](config/calendars.yml):
+
+```yaml
+  custom:
+    six_nations_plus_england:
+      enabled: true
+      cal_name: "Six Nations + England (all competitions)"
+      include_tournaments: [six_nations]
+      include_teams: [England]
+```
+
+A fixture is included if its tournament is in `include_tournaments` **or** it involves
+any team in `include_teams` (duplicates removed — England's own Six Nations games appear
+once). The feed is written to `calendar/<key>.ics` — here
+`six_nations_plus_england.ics`, which ships enabled by default. Add more entries for
+other combinations (e.g. `rwc_plus_ireland`).
 
 ---
 

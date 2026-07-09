@@ -53,6 +53,15 @@ derived:
     enabled: true
     cal_name: "Rugby Internationals — All Fixtures"
 
+  # Composite feeds: every fixture whose tournament is in include_tournaments,
+  # OR that involves any team in include_teams (de-duplicated). Filename = the key.
+  custom:
+    six_nations_plus_england:
+      enabled: true
+      cal_name: "Six Nations + England (all competitions)"
+      include_tournaments: [six_nations]
+      include_teams: [England]
+
 output:
   calendar_dir: calendar
   data_dir: data

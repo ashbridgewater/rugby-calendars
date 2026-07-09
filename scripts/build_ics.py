@@ -201,6 +201,21 @@ def build_all(config_path, *, data_dir=None, calendar_dir=None, state_dir=None) 
         out.write_text(text, encoding="utf-8")
         written.append(out)
 
+    # --- custom composite feeds (whole tournaments + specific teams, de-duped) ---
+    for cfeed in cfg.enabled_custom():
+        feed_fx = [
+            fx for fx in combined
+            if fx.tournament in cfeed.include_tournaments
+            or any(fx.involves(team) for team in cfeed.include_teams)
+        ]
+        text = render_calendar(
+            cfeed.cal_name, feed_fx, state,
+            category=f"Rugby,{cfeed.cal_name}", caldesc=cfeed.cal_name, **common,
+        )
+        out = cdir / f"{cfeed.key}.ics"
+        out.write_text(text, encoding="utf-8")
+        written.append(out)
+
     state.save()
     return written
 

@@ -1,7 +1,7 @@
 """Load and validate config/calendars.yml (PyYAML-backed)."""
 from __future__ import annotations
 
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 
 import yaml
@@ -21,6 +21,18 @@ class SourceCfg:
 
 
 @dataclass(frozen=True)
+class CustomCfg:
+    """A composite feed: every fixture whose tournament is in include_tournaments
+    OR that involves any team in include_teams (de-duplicated by UID)."""
+
+    key: str
+    enabled: bool
+    cal_name: str
+    include_tournaments: tuple[str, ...]
+    include_teams: tuple[str, ...]
+
+
+@dataclass(frozen=True)
 class Config:
     sources: dict[str, SourceCfg]
     nations_enabled: bool
@@ -33,9 +45,13 @@ class Config:
     refresh_interval: str
     event_duration_minutes: int
     timezone: str
+    custom: tuple[CustomCfg, ...] = ()
 
     def enabled_sources(self) -> list[SourceCfg]:
         return [s for s in self.sources.values() if s.enabled]
+
+    def enabled_custom(self) -> list[CustomCfg]:
+        return [c for c in self.custom if c.enabled]
 
 
 def load_config(path) -> Config:
@@ -70,6 +86,19 @@ def load_config(path) -> Config:
     output = data.get("output") or {}
     meta = data.get("metadata") or {}
 
+    custom: list[CustomCfg] = []
+    for key, c in (derived.get("custom") or {}).items():
+        c = c or {}
+        custom.append(
+            CustomCfg(
+                key=key,
+                enabled=bool(c.get("enabled", True)),
+                cal_name=str(c.get("cal_name", key)),
+                include_tournaments=tuple(c.get("include_tournaments") or []),
+                include_teams=tuple(c.get("include_teams") or []),
+            )
+        )
+
     return Config(
         sources=sources,
         nations_enabled=bool(nations.get("enabled", False)),
@@ -82,4 +111,5 @@ def load_config(path) -> Config:
         refresh_interval=str(meta.get("refresh_interval", "PT12H")),
         event_duration_minutes=int(meta.get("event_duration_minutes", 120)),
         timezone=str(meta.get("timezone", "Europe/London")),
+        custom=tuple(custom),
     )

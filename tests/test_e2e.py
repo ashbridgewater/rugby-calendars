@@ -5,9 +5,20 @@ from pathlib import Path
 
 from icalendar import Calendar
 
+from scripts.config_loader import load_config
 from scripts.run_pipeline import run as run_pipeline
 
 CONFIG = "config/calendars.yml"
+
+
+def _expected_feed_count() -> int:
+    cfg = load_config(CONFIG)
+    return (
+        len(cfg.enabled_sources())
+        + (len(cfg.nations_teams) if cfg.nations_enabled else 0)
+        + (1 if cfg.all_enabled else 0)
+        + len(cfg.enabled_custom())
+    )
 
 
 def _run(tmp_path, fixture_dir):
@@ -25,10 +36,10 @@ def _uids(path):
     return {str(e["UID"]) for e in cal.walk("VEVENT")}
 
 
-def test_e2e_produces_nine_valid_calendars(tmp_path):
+def test_e2e_produces_all_configured_calendars(tmp_path):
     assert _run(tmp_path, "tests/fixtures") == 0
     ics = sorted((tmp_path / "cal").glob("*.ics"))
-    assert len(ics) == 9
+    assert len(ics) == _expected_feed_count()
     for p in ics:
         Calendar.from_ical(p.read_text(encoding="utf-8"))  # must parse
 
