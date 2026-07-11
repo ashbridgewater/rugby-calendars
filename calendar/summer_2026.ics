@@ -132,16 +132,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:summer-2026-round-2-new-zealand-v-italy@rugby-calendars.ashbridgewater.
  github.io
-DTSTAMP:20280912T150050Z
+DTSTAMP:20280813T091936Z
 DTSTART:20260711T051000Z
 DTEND:20260711T071000Z
-SUMMARY:New Zealand v Italy
+SUMMARY:New Zealand 47-17 Italy
 LOCATION:Hnry Stadium\, Wellington
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby\,Summer Internationals 2026
 URL:https://www.autumn-internationals.co.uk/summer-2026/
-DESCRIPTION:New Zealand v Italy\nVenue: Hnry Stadium\, Wellington
+DESCRIPTION:New Zealand 47-17 Italy\nVenue: Hnry Stadium\, Wellington
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
