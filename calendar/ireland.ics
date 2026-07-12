@@ -26,16 +26,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:summer-2026-round-2-japan-v-ireland@rugby-calendars.ashbridgewater.gith
  ub.io
-DTSTAMP:20221215T133102Z
+DTSTAMP:20290811T151053Z
 DTSTART:20260711T101000Z
 DTEND:20260711T121000Z
-SUMMARY:Japan v Ireland
+SUMMARY:Japan 20-36 Ireland
 LOCATION:McDonald Jones Stadium\, Newcastle
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby\,Ireland
 URL:https://www.autumn-internationals.co.uk/summer-2026/
-DESCRIPTION:Japan v Ireland\nVenue: McDonald Jones Stadium\, Newcastle
+DESCRIPTION:Japan 20-36 Ireland\nVenue: McDonald Jones Stadium\, Newcastle
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

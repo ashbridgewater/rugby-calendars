@@ -27,17 +27,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:summer-2026-round-2-south-africa-v-scotland@rugby-calendars.ashbridgewa
  ter.github.io
-DTSTAMP:20330818T224648Z
+DTSTAMP:20280702T071100Z
 DTSTART:20260711T154000Z
 DTEND:20260711T174000Z
-SUMMARY:South Africa v Scotland
+SUMMARY:South Africa 42-28 Scotland
 LOCATION:Loftus Versfeld Stadium\, Pretoria
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby\,Scotland
 URL:https://www.autumn-internationals.co.uk/summer-2026/
-DESCRIPTION:South Africa v Scotland\nVenue: Loftus Versfeld Stadium\, Preto
- ria
+DESCRIPTION:South Africa 42-28 Scotland\nVenue: Loftus Versfeld Stadium\, P
+ retoria
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

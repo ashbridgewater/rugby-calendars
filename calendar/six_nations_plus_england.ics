@@ -41,16 +41,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:summer-2026-round-2-fiji-v-england@rugby-calendars.ashbridgewater.githu
  b.io
-DTSTAMP:20230110T162320Z
+DTSTAMP:20300711T140424Z
 DTSTART:20260711T131000Z
 DTEND:20260711T151000Z
-SUMMARY:Fiji v England
+SUMMARY:Fiji 8-73 England
 LOCATION:Hill Dickinson Stadium\, Liverpool
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby\,Six Nations + England (all competitions)
 URL:https://www.autumn-internationals.co.uk/summer-2026/
-DESCRIPTION:Fiji v England\nVenue: Hill Dickinson Stadium\, Liverpool
+DESCRIPTION:Fiji 8-73 England\nVenue: Hill Dickinson Stadium\, Liverpool
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
