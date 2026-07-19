@@ -57,16 +57,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:summer-2026-round-3-south-africa-v-wales@rugby-calendars.ashbridgewater
  .github.io
-DTSTAMP:20290323T022415Z
+DTSTAMP:20271123T092055Z
 DTSTART:20260718T154000Z
 DTEND:20260718T174000Z
-SUMMARY:South Africa v Wales
+SUMMARY:South Africa 43-0 Wales
 LOCATION:Hollywoodbets Kings Park\, Durban
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby\,Wales
 URL:https://www.autumn-internationals.co.uk/summer-2026/
-DESCRIPTION:South Africa v Wales\nVenue: Hollywoodbets Kings Park\, Durban
+DESCRIPTION:South Africa 43-0 Wales\nVenue: Hollywoodbets Kings Park\, Durb
+ an
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

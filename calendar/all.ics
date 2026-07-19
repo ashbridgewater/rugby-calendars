@@ -222,94 +222,96 @@ DESCRIPTION:South Africa 42-28 Scotland\nVenue: Loftus Versfeld Stadium\, P
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:summer-2026-round-3-new-zealand-v-ireland@rugby-calendars.ashbridgewate
- r.github.io
-DTSTAMP:20310215T185455Z
-DTSTART:20260718T071000Z
-DTEND:20260718T091000Z
-SUMMARY:New Zealand v Ireland
-LOCATION:Eden Park\, Auckland
+UID:summer-2026-round-3-argentina-v-england@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20211231T024907Z
+DTSTART:20260718T191000Z
+DTEND:20260718T211000Z
+SUMMARY:Argentina 24-31 England
+LOCATION:Estadio Unico Madre de Ciudades\, Santiago del Estero
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby
 URL:https://www.autumn-internationals.co.uk/summer-2026/
-DESCRIPTION:New Zealand v Ireland\nVenue: Eden Park\, Auckland
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:summer-2026-round-3-japan-v-france@rugby-calendars.ashbridgewater.githu
- b.io
-DTSTAMP:20340228T094752Z
-DTSTART:20260718T084000Z
-DTEND:20260718T104000Z
-SUMMARY:Japan v France
-LOCATION:Japan National Stadium\, Tokyo
-STATUS:CONFIRMED
-SEQUENCE:0
-CATEGORIES:Rugby
-URL:https://www.autumn-internationals.co.uk/summer-2026/
-DESCRIPTION:Japan v France\nVenue: Japan National Stadium\, Tokyo
+DESCRIPTION:Argentina 24-31 England\nVenue: Estadio Unico Madre de Ciudades
+ \, Santiago del Estero
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-2026-round-3-australia-v-italy@rugby-calendars.ashbridgewater.gi
  thub.io
-DTSTAMP:20321226T105757Z
+DTSTAMP:20220913T083334Z
 DTSTART:20260718T101000Z
 DTEND:20260718T121000Z
-SUMMARY:Australia v Italy
+SUMMARY:Australia 57-10 Italy
 LOCATION:HBF Park\, Perth
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby
 URL:https://www.autumn-internationals.co.uk/summer-2026/
-DESCRIPTION:Australia v Italy\nVenue: HBF Park\, Perth
+DESCRIPTION:Australia 57-10 Italy\nVenue: HBF Park\, Perth
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-2026-round-3-fiji-v-scotland@rugby-calendars.ashbridgewater.gith
  ub.io
-DTSTAMP:20280727T132820Z
+DTSTAMP:20280413T161027Z
 DTSTART:20260718T131000Z
 DTEND:20260718T151000Z
-SUMMARY:Fiji v Scotland
+SUMMARY:Fiji 17-33 Scotland
 LOCATION:Scottish Gas Murrayfield\, Edinburgh
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby
 URL:https://www.autumn-internationals.co.uk/summer-2026/
-DESCRIPTION:Fiji v Scotland\nVenue: Scottish Gas Murrayfield\, Edinburgh
+DESCRIPTION:Fiji 17-33 Scotland\nVenue: Scottish Gas Murrayfield\, Edinburg
+ h
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-3-japan-v-france@rugby-calendars.ashbridgewater.githu
+ b.io
+DTSTAMP:20270901T033528Z
+DTSTART:20260718T084000Z
+DTEND:20260718T104000Z
+SUMMARY:Japan 15-42 France
+LOCATION:Japan National Stadium\, Tokyo
+STATUS:CONFIRMED
+SEQUENCE:1
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:Japan 15-42 France\nVenue: Japan National Stadium\, Tokyo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2026-round-3-new-zealand-v-ireland@rugby-calendars.ashbridgewate
+ r.github.io
+DTSTAMP:20280219T012215Z
+DTSTART:20260718T071000Z
+DTEND:20260718T091000Z
+SUMMARY:New Zealand 40-21 Ireland
+LOCATION:Eden Park\, Auckland
+STATUS:CONFIRMED
+SEQUENCE:1
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/summer-2026/
+DESCRIPTION:New Zealand 40-21 Ireland\nVenue: Eden Park\, Auckland
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-2026-round-3-south-africa-v-wales@rugby-calendars.ashbridgewater
  .github.io
-DTSTAMP:20290323T022415Z
+DTSTAMP:20271123T092055Z
 DTSTART:20260718T154000Z
 DTEND:20260718T174000Z
-SUMMARY:South Africa v Wales
+SUMMARY:South Africa 43-0 Wales
 LOCATION:Hollywoodbets Kings Park\, Durban
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby
 URL:https://www.autumn-internationals.co.uk/summer-2026/
-DESCRIPTION:South Africa v Wales\nVenue: Hollywoodbets Kings Park\, Durban
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:summer-2026-round-3-argentina-v-england@rugby-calendars.ashbridgewater.
- github.io
-DTSTAMP:20310929T150949Z
-DTSTART:20260718T191000Z
-DTEND:20260718T211000Z
-SUMMARY:Argentina v England
-LOCATION:Estadio Unico Madre de Ciudades\, Santiago del Estero
-STATUS:CONFIRMED
-SEQUENCE:0
-CATEGORIES:Rugby
-URL:https://www.autumn-internationals.co.uk/summer-2026/
-DESCRIPTION:Argentina v England\nVenue: Estadio Unico Madre de Ciudades\, S
- antiago del Estero
+DESCRIPTION:South Africa 43-0 Wales\nVenue: Hollywoodbets Kings Park\, Durb
+ an
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

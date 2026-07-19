@@ -43,16 +43,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:summer-2026-round-3-fiji-v-scotland@rugby-calendars.ashbridgewater.gith
  ub.io
-DTSTAMP:20280727T132820Z
+DTSTAMP:20280413T161027Z
 DTSTART:20260718T131000Z
 DTEND:20260718T151000Z
-SUMMARY:Fiji v Scotland
+SUMMARY:Fiji 17-33 Scotland
 LOCATION:Scottish Gas Murrayfield\, Edinburgh
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby\,Scotland
 URL:https://www.autumn-internationals.co.uk/summer-2026/
-DESCRIPTION:Fiji v Scotland\nVenue: Scottish Gas Murrayfield\, Edinburgh
+DESCRIPTION:Fiji 17-33 Scotland\nVenue: Scottish Gas Murrayfield\, Edinburg
+ h
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

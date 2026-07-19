@@ -41,16 +41,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:summer-2026-round-3-new-zealand-v-ireland@rugby-calendars.ashbridgewate
  r.github.io
-DTSTAMP:20310215T185455Z
+DTSTAMP:20280219T012215Z
 DTSTART:20260718T071000Z
 DTEND:20260718T091000Z
-SUMMARY:New Zealand v Ireland
+SUMMARY:New Zealand 40-21 Ireland
 LOCATION:Eden Park\, Auckland
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby\,Ireland
 URL:https://www.autumn-internationals.co.uk/summer-2026/
-DESCRIPTION:New Zealand v Ireland\nVenue: Eden Park\, Auckland
+DESCRIPTION:New Zealand 40-21 Ireland\nVenue: Eden Park\, Auckland
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

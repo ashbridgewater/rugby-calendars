@@ -56,17 +56,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:summer-2026-round-3-argentina-v-england@rugby-calendars.ashbridgewater.
  github.io
-DTSTAMP:20310929T150949Z
+DTSTAMP:20211231T024907Z
 DTSTART:20260718T191000Z
 DTEND:20260718T211000Z
-SUMMARY:Argentina v England
+SUMMARY:Argentina 24-31 England
 LOCATION:Estadio Unico Madre de Ciudades\, Santiago del Estero
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby\,England
 URL:https://www.autumn-internationals.co.uk/summer-2026/
-DESCRIPTION:Argentina v England\nVenue: Estadio Unico Madre de Ciudades\, S
- antiago del Estero
+DESCRIPTION:Argentina 24-31 England\nVenue: Estadio Unico Madre de Ciudades
+ \, Santiago del Estero
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
