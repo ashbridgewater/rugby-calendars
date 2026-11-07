@@ -56,16 +56,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:autumn-2026-round-4-ireland-v-argentina@rugby-calendars.ashbridgewater.
  github.io
-DTSTAMP:20320513T032424Z
+DTSTAMP:20270701T100622Z
 DTSTART:20261106T201000Z
 DTEND:20261106T221000Z
-SUMMARY:Ireland v Argentina
+SUMMARY:Ireland 42-12 Argentina
 LOCATION:Aviva Stadium\, Dublin
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby\,Ireland
 URL:https://www.autumn-internationals.co.uk/2026/
-DESCRIPTION:Ireland v Argentina\nVenue: Aviva Stadium\, Dublin
+DESCRIPTION:Ireland 42-12 Argentina\nVenue: Aviva Stadium\, Dublin
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
