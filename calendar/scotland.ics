@@ -59,17 +59,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:autumn-2026-round-4-scotland-v-new-zealand@rugby-calendars.ashbridgewat
  er.github.io
-DTSTAMP:20230104T193616Z
+DTSTAMP:20300809T235416Z
 DTSTART:20261107T141000Z
 DTEND:20261107T161000Z
-SUMMARY:Scotland v New Zealand
+SUMMARY:Scotland 21-43 New Zealand
 LOCATION:Scottish Gas Murrayfield\, Edinburgh
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby\,Scotland
 URL:https://www.autumn-internationals.co.uk/2026/
-DESCRIPTION:Scotland v New Zealand\nVenue: Scottish Gas Murrayfield\, Edinb
- urgh
+DESCRIPTION:Scotland 21-43 New Zealand\nVenue: Scottish Gas Murrayfield\, E
+ dinburgh
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

@@ -73,16 +73,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:autumn-2026-round-4-wales-v-japan@rugby-calendars.ashbridgewater.github
  .io
-DTSTAMP:20231127T171957Z
+DTSTAMP:20280709T044000Z
 DTSTART:20261107T164000Z
 DTEND:20261107T184000Z
-SUMMARY:Wales v Japan
+SUMMARY:Wales 28-21 Japan
 LOCATION:Principality Stadium\, Cardiff
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby\,Wales
 URL:https://www.autumn-internationals.co.uk/2026/
-DESCRIPTION:Wales v Japan\nVenue: Principality Stadium\, Cardiff
+DESCRIPTION:Wales 28-21 Japan\nVenue: Principality Stadium\, Cardiff
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

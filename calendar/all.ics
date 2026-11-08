@@ -330,64 +330,64 @@ DESCRIPTION:Ireland 42-12 Argentina\nVenue: Aviva Stadium\, Dublin
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:autumn-2026-round-4-italy-v-south-africa@rugby-calendars.ashbridgewater
- .github.io
-DTSTAMP:20340209T025840Z
-DTSTART:20261107T114000Z
-DTEND:20261107T134000Z
-SUMMARY:Italy v South Africa
-LOCATION:Allianz Stadium\, Turin
+UID:autumn-2026-round-4-france-v-fiji@rugby-calendars.ashbridgewater.github
+ .io
+DTSTAMP:20301027T034320Z
+DTSTART:20261107T201000Z
+DTEND:20261107T221000Z
+SUMMARY:France 54-17 Fiji
+LOCATION:Groupama Stadium\, Lyon
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby
 URL:https://www.autumn-internationals.co.uk/2026/
-DESCRIPTION:Italy v South Africa\nVenue: Allianz Stadium\, Turin
+DESCRIPTION:France 54-17 Fiji\nVenue: Groupama Stadium\, Lyon
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-4-italy-v-south-africa@rugby-calendars.ashbridgewater
+ .github.io
+DTSTAMP:20200423T032714Z
+DTSTART:20261107T114000Z
+DTEND:20261107T134000Z
+SUMMARY:Italy 7-66 South Africa
+LOCATION:Allianz Stadium\, Turin
+STATUS:CONFIRMED
+SEQUENCE:1
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Italy 7-66 South Africa\nVenue: Allianz Stadium\, Turin
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:autumn-2026-round-4-scotland-v-new-zealand@rugby-calendars.ashbridgewat
  er.github.io
-DTSTAMP:20230104T193616Z
+DTSTAMP:20300809T235416Z
 DTSTART:20261107T141000Z
 DTEND:20261107T161000Z
-SUMMARY:Scotland v New Zealand
+SUMMARY:Scotland 21-43 New Zealand
 LOCATION:Scottish Gas Murrayfield\, Edinburgh
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby
 URL:https://www.autumn-internationals.co.uk/2026/
-DESCRIPTION:Scotland v New Zealand\nVenue: Scottish Gas Murrayfield\, Edinb
- urgh
+DESCRIPTION:Scotland 21-43 New Zealand\nVenue: Scottish Gas Murrayfield\, E
+ dinburgh
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:autumn-2026-round-4-wales-v-japan@rugby-calendars.ashbridgewater.github
  .io
-DTSTAMP:20231127T171957Z
+DTSTAMP:20280709T044000Z
 DTSTART:20261107T164000Z
 DTEND:20261107T184000Z
-SUMMARY:Wales v Japan
+SUMMARY:Wales 28-21 Japan
 LOCATION:Principality Stadium\, Cardiff
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby
 URL:https://www.autumn-internationals.co.uk/2026/
-DESCRIPTION:Wales v Japan\nVenue: Principality Stadium\, Cardiff
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:autumn-2026-round-4-france-v-fiji@rugby-calendars.ashbridgewater.github
- .io
-DTSTAMP:20321230T154022Z
-DTSTART:20261107T201000Z
-DTEND:20261107T221000Z
-SUMMARY:France v Fiji
-LOCATION:Groupama Stadium\, Lyon
-STATUS:CONFIRMED
-SEQUENCE:0
-CATEGORIES:Rugby
-URL:https://www.autumn-internationals.co.uk/2026/
-DESCRIPTION:France v Fiji\nVenue: Groupama Stadium\, Lyon
+DESCRIPTION:Wales 28-21 Japan\nVenue: Principality Stadium\, Cardiff
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
