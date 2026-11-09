@@ -72,16 +72,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:autumn-2026-round-4-england-v-australia@rugby-calendars.ashbridgewater.
  github.io
-DTSTAMP:20250912T034736Z
+DTSTAMP:20220910T021957Z
 DTSTART:20261108T151000Z
 DTEND:20261108T171000Z
-SUMMARY:England v Australia
+SUMMARY:England 45-22 Australia
 LOCATION:Allianz Stadium\, Twickenham
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby\,England
 URL:https://www.autumn-internationals.co.uk/2026/
-DESCRIPTION:England v Australia\nVenue: Allianz Stadium\, Twickenham
+DESCRIPTION:England 45-22 Australia\nVenue: Allianz Stadium\, Twickenham
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
