@@ -408,16 +408,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:autumn-2026-round-5-france-v-south-africa@rugby-calendars.ashbridgewate
  r.github.io
-DTSTAMP:20230317T211917Z
+DTSTAMP:20211226T082844Z
 DTSTART:20261113T201000Z
 DTEND:20261113T221000Z
-SUMMARY:France v South Africa
+SUMMARY:France 21-19 South Africa
 LOCATION:Stade de France\, Paris
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby
 URL:https://www.autumn-internationals.co.uk/2026/
-DESCRIPTION:France v South Africa\nVenue: Stade de France\, Paris
+DESCRIPTION:France 21-19 South Africa\nVenue: Stade de France\, Paris
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
