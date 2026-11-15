@@ -71,16 +71,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:autumn-2026-round-5-ireland-v-fiji@rugby-calendars.ashbridgewater.githu
  b.io
-DTSTAMP:20320402T095506Z
+DTSTAMP:20271117T212307Z
 DTSTART:20261114T201000Z
 DTEND:20261114T221000Z
-SUMMARY:Ireland v Fiji
+SUMMARY:Ireland 43-15 Fiji
 LOCATION:Aviva Stadium\, Dublin
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby\,Ireland
 URL:https://www.autumn-internationals.co.uk/2026/
-DESCRIPTION:Ireland v Fiji\nVenue: Aviva Stadium\, Dublin
+DESCRIPTION:Ireland 43-15 Fiji\nVenue: Aviva Stadium\, Dublin
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

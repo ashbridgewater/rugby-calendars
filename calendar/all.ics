@@ -421,63 +421,63 @@ DESCRIPTION:France 21-19 South Africa\nVenue: Stade de France\, Paris
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:autumn-2026-round-5-italy-v-argentina@rugby-calendars.ashbridgewater.gi
- thub.io
-DTSTAMP:20250106T082353Z
-DTSTART:20261114T114000Z
-DTEND:20261114T134000Z
-SUMMARY:Italy v Argentina
-LOCATION:Stadio Luigi Ferraris\, Genoa
-STATUS:CONFIRMED
-SEQUENCE:0
-CATEGORIES:Rugby
-URL:https://www.autumn-internationals.co.uk/2026/
-DESCRIPTION:Italy v Argentina\nVenue: Stadio Luigi Ferraris\, Genoa
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:autumn-2026-round-5-wales-v-new-zealand@rugby-calendars.ashbridgewater.
- github.io
-DTSTAMP:20260819T134939Z
-DTSTART:20261114T141000Z
-DTEND:20261114T161000Z
-SUMMARY:Wales v New Zealand
-LOCATION:Principality Stadium\, Cardiff
-STATUS:CONFIRMED
-SEQUENCE:0
-CATEGORIES:Rugby
-URL:https://www.autumn-internationals.co.uk/2026/
-DESCRIPTION:Wales v New Zealand\nVenue: Principality Stadium\, Cardiff
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:autumn-2026-round-5-england-v-japan@rugby-calendars.ashbridgewater.gith
  ub.io
-DTSTAMP:20340604T235836Z
+DTSTAMP:20231124T234256Z
 DTSTART:20261114T164000Z
 DTEND:20261114T184000Z
-SUMMARY:England v Japan
+SUMMARY:England 78-15 Japan
 LOCATION:Allianz Stadium\, Twickenham
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby
 URL:https://www.autumn-internationals.co.uk/2026/
-DESCRIPTION:England v Japan\nVenue: Allianz Stadium\, Twickenham
+DESCRIPTION:England 78-15 Japan\nVenue: Allianz Stadium\, Twickenham
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:autumn-2026-round-5-ireland-v-fiji@rugby-calendars.ashbridgewater.githu
  b.io
-DTSTAMP:20320402T095506Z
+DTSTAMP:20271117T212307Z
 DTSTART:20261114T201000Z
 DTEND:20261114T221000Z
-SUMMARY:Ireland v Fiji
+SUMMARY:Ireland 43-15 Fiji
 LOCATION:Aviva Stadium\, Dublin
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby
 URL:https://www.autumn-internationals.co.uk/2026/
-DESCRIPTION:Ireland v Fiji\nVenue: Aviva Stadium\, Dublin
+DESCRIPTION:Ireland 43-15 Fiji\nVenue: Aviva Stadium\, Dublin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-5-italy-v-argentina@rugby-calendars.ashbridgewater.gi
+ thub.io
+DTSTAMP:20240527T034647Z
+DTSTART:20261114T114000Z
+DTEND:20261114T134000Z
+SUMMARY:Italy 14-19 Argentina
+LOCATION:Stadio Luigi Ferraris\, Genoa
+STATUS:CONFIRMED
+SEQUENCE:1
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Italy 14-19 Argentina\nVenue: Stadio Luigi Ferraris\, Genoa
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-2026-round-5-wales-v-new-zealand@rugby-calendars.ashbridgewater.
+ github.io
+DTSTAMP:20301228T085655Z
+DTSTART:20261114T141000Z
+DTEND:20261114T161000Z
+SUMMARY:Wales 35-28 New Zealand
+LOCATION:Principality Stadium\, Cardiff
+STATUS:CONFIRMED
+SEQUENCE:1
+CATEGORIES:Rugby
+URL:https://www.autumn-internationals.co.uk/2026/
+DESCRIPTION:Wales 35-28 New Zealand\nVenue: Principality Stadium\, Cardiff
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

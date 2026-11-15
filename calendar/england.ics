@@ -87,16 +87,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:autumn-2026-round-5-england-v-japan@rugby-calendars.ashbridgewater.gith
  ub.io
-DTSTAMP:20340604T235836Z
+DTSTAMP:20231124T234256Z
 DTSTART:20261114T164000Z
 DTEND:20261114T184000Z
-SUMMARY:England v Japan
+SUMMARY:England 78-15 Japan
 LOCATION:Allianz Stadium\, Twickenham
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby\,England
 URL:https://www.autumn-internationals.co.uk/2026/
-DESCRIPTION:England v Japan\nVenue: Allianz Stadium\, Twickenham
+DESCRIPTION:England 78-15 Japan\nVenue: Allianz Stadium\, Twickenham
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
