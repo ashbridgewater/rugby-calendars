@@ -177,17 +177,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:autumn-2026-round-5-scotland-v-australia@rugby-calendars.ashbridgewater
  .github.io
-DTSTAMP:20311210T040011Z
+DTSTAMP:20220325T172612Z
 DTSTART:20261115T151000Z
 DTEND:20261115T171000Z
-SUMMARY:Scotland v Australia
+SUMMARY:Scotland 15-12 Australia
 LOCATION:Scottish Gas Murrayfield\, Edinburgh
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Rugby\,Autumn Internationals 2026
 URL:https://www.autumn-internationals.co.uk/2026/
-DESCRIPTION:Scotland v Australia\nVenue: Scottish Gas Murrayfield\, Edinbur
- gh
+DESCRIPTION:Scotland 15-12 Australia\nVenue: Scottish Gas Murrayfield\, Edi
+ nburgh
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
